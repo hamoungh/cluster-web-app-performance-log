@@ -1,0 +1,924 @@
+Remote Browser Emulator for TPC-W.
+  ECE 902  Fall '99
+  Version 1.5
+System's current path is /root/loadtest
+rt:0.08,through:2.27,tt:0.34,num_interact:34,Intrvl:15,num_users:1,errors:0
+rt:1.28,through:11,tt:0.39,num_interact:165,Intrvl:15,num_users:20,errors:0
+rt:5.24,through:11.13,tt:0.45,num_interact:167,Intrvl:15,num_users:80,errors:0
+rt:7.1,through:12.2,tt:0.42,num_interact:183,Intrvl:15,num_users:120,errors:0
+rt:10.22,through:12.2,tt:0.32,num_interact:183,Intrvl:15,num_users:180,errors:0
+rt:13.38,through:12.6,tt:0.38,num_interact:189,Intrvl:15,num_users:240,errors:0
+rt:17.21,through:12.53,tt:0.36,num_interact:188,Intrvl:15,num_users:280,errors:0
+rt:20.91,through:12.6,tt:0.4,num_interact:189,Intrvl:15,num_users:310,errors:0
+rt:23.45,through:12.8,tt:0.34,num_interact:192,Intrvl:15,num_users:360,errors:0
+rt:26.07,through:12.93,tt:0.39,num_interact:194,Intrvl:15,num_users:390,errors:0
+rt:28.35,through:12.93,tt:0.34,num_interact:194,Intrvl:15,num_users:413,errors:0
+rt:28.59,through:12.47,tt:0.37,num_interact:187,Intrvl:15,num_users:486,errors:0
+rt:32.63,through:11.87,tt:0.35,num_interact:178,Intrvl:15,num_users:421,errors:0
+rt:36.95,through:8,tt:0.28,num_interact:120,Intrvl:15,num_users:342,errors:0
+rt:38.65,through:8.67,tt:0.41,num_interact:130,Intrvl:15,num_users:322,errors:0
+rt:32.35,through:11.8,tt:0.35,num_interact:177,Intrvl:15,num_users:403,errors:0
+rt:29,through:12.6,tt:0.34,num_interact:189,Intrvl:15,num_users:405,errors:0
+rt:31.41,through:12.87,tt:0.42,num_interact:193,Intrvl:15,num_users:417,errors:0
+rt:32.22,through:12.67,tt:0.38,num_interact:190,Intrvl:15,num_users:406,errors:0
+rt:30.63,through:10.6,tt:0.38,num_interact:159,Intrvl:15,num_users:351,errors:0
+rt:31.96,through:10.87,tt:0.33,num_interact:163,Intrvl:15,num_users:434,errors:0
+rt:32.37,through:10.13,tt:0.38,num_interact:152,Intrvl:15,num_users:343,errors:0
+rt:35.63,through:9.33,tt:0.34,num_interact:140,Intrvl:15,num_users:417,errors:0
+rt:32.38,through:12.53,tt:0.39,num_interact:188,Intrvl:15,num_users:424,errors:0
+rt:32.86,through:12.73,tt:0.39,num_interact:191,Intrvl:15,num_users:424,errors:0
+rt:33.42,through:12.87,tt:0.37,num_interact:193,Intrvl:15,num_users:414,errors:0
+rt:33.21,through:12.6,tt:0.35,num_interact:189,Intrvl:15,num_users:501,errors:0
+rt:32.88,through:11.93,tt:0.36,num_interact:179,Intrvl:15,num_users:407,errors:0
+rt:36.4,through:7.73,tt:0.32,num_interact:116,Intrvl:15,num_users:438,errors:0
+rt:38.67,through:12.07,tt:0.3,num_interact:181,Intrvl:15,num_users:480,errors:0
+rt:39.67,through:12.4,tt:0.35,num_interact:186,Intrvl:15,num_users:444,errors:0
+rt:37.23,through:10.47,tt:0.32,num_interact:157,Intrvl:15,num_users:482,errors:0
+rt:36.68,through:12.53,tt:0.33,num_interact:188,Intrvl:15,num_users:475,errors:0
+rt:38.71,through:11.4,tt:0.36,num_interact:171,Intrvl:15,num_users:452,errors:0
+rt:38.26,through:12.13,tt:0.36,num_interact:182,Intrvl:15,num_users:440,errors:0
+rt:37.18,through:12.07,tt:0.31,num_interact:181,Intrvl:15,num_users:445,errors:0
+rt:34.53,through:12.67,tt:0.37,num_interact:190,Intrvl:15,num_users:508,errors:0
+rt:35.63,through:12.2,tt:0.33,num_interact:183,Intrvl:15,num_users:426,errors:0
+rt:38.93,through:9.33,tt:0.37,num_interact:140,Intrvl:15,num_users:455,errors:0
+rt:38.29,through:11.73,tt:0.37,num_interact:176,Intrvl:15,num_users:435,errors:0
+rt:37.72,through:11.47,tt:0.41,num_interact:172,Intrvl:15,num_users:463,errors:0
+rt:36.7,through:12.53,tt:0.37,num_interact:188,Intrvl:15,num_users:444,errors:0
+rt:37.82,through:11,tt:0.31,num_interact:165,Intrvl:15,num_users:412,errors:0
+rt:35.53,through:11.73,tt:0.33,num_interact:176,Intrvl:15,num_users:419,errors:0
+rt:33.21,through:12.33,tt:0.37,num_interact:185,Intrvl:15,num_users:409,errors:0
+rt:32.93,through:12.47,tt:0.33,num_interact:187,Intrvl:15,num_users:427,errors:0
+rt:33.69,through:12.53,tt:0.35,num_interact:188,Intrvl:15,num_users:416,errors:0
+rt:33.93,through:12.47,tt:0.39,num_interact:187,Intrvl:15,num_users:448,errors:0
+rt:31.96,through:12.6,tt:0.35,num_interact:189,Intrvl:15,num_users:456,errors:0
+rt:33.77,through:13.13,tt:0.34,num_interact:197,Intrvl:15,num_users:482,errors:0
+rt:35.38,through:12.67,tt:0.36,num_interact:190,Intrvl:15,num_users:465,errors:0
+rt:37.09,through:12.07,tt:0.36,num_interact:181,Intrvl:15,num_users:472,errors:0
+rt:35.92,through:12.6,tt:0.35,num_interact:189,Intrvl:15,num_users:454,errors:0
+rt:36.65,through:10.27,tt:0.33,num_interact:154,Intrvl:15,num_users:417,errors:0
+rt:36.91,through:12.6,tt:0.31,num_interact:189,Intrvl:15,num_users:490,errors:0
+rt:35.85,through:12.33,tt:0.38,num_interact:185,Intrvl:15,num_users:473,errors:0
+rt:36.29,through:10.67,tt:0.32,num_interact:160,Intrvl:15,num_users:449,errors:0
+rt:36.92,through:12.67,tt:0.37,num_interact:192,Intrvl:15,num_users:434,errors:0
+rt:37.94,through:10.87,tt:0.3,num_interact:163,Intrvl:15,num_users:407,errors:0
+rt:34.78,through:12.07,tt:0.33,num_interact:181,Intrvl:15,num_users:472,errors:0
+rt:33.51,through:12.67,tt:0.32,num_interact:190,Intrvl:15,num_users:463,errors:0
+rt:35.44,through:8.67,tt:0.36,num_interact:130,Intrvl:15,num_users:371,errors:0
+rt:36.65,through:10.67,tt:0.33,num_interact:160,Intrvl:15,num_users:454,errors:0
+rt:35.68,through:11.93,tt:0.33,num_interact:179,Intrvl:15,num_users:419,errors:0
+rt:34.91,through:11.27,tt:0.38,num_interact:169,Intrvl:15,num_users:435,errors:0
+rt:34.12,through:12.67,tt:0.37,num_interact:190,Intrvl:15,num_users:483,errors:0
+rt:35.36,through:12.73,tt:0.36,num_interact:191,Intrvl:15,num_users:486,errors:0
+rt:36.69,through:9.93,tt:0.33,num_interact:149,Intrvl:15,num_users:400,errors:0
+rt:36.99,through:11.47,tt:0.34,num_interact:172,Intrvl:15,num_users:419,errors:0
+rt:35.55,through:11.93,tt:0.36,num_interact:179,Intrvl:15,num_users:414,errors:0
+rt:34.47,through:11,tt:0.34,num_interact:165,Intrvl:15,num_users:370,errors:0
+rt:33.65,through:11.87,tt:0.36,num_interact:178,Intrvl:15,num_users:466,errors:0
+rt:31.54,through:12.47,tt:0.36,num_interact:187,Intrvl:15,num_users:466,errors:0
+rt:34.46,through:12.4,tt:0.4,num_interact:186,Intrvl:15,num_users:459,errors:0
+rt:34.62,through:12.4,tt:0.37,num_interact:186,Intrvl:15,num_users:445,errors:0
+rt:38.5,through:11.53,tt:0.39,num_interact:173,Intrvl:15,num_users:421,errors:0
+rt:35.65,through:12.27,tt:0.34,num_interact:184,Intrvl:15,num_users:438,errors:0
+rt:34.01,through:12.13,tt:0.32,num_interact:182,Intrvl:15,num_users:438,errors:0
+rt:33.34,through:12.6,tt:0.34,num_interact:189,Intrvl:15,num_users:423,errors:0
+rt:34.12,through:12.6,tt:0.34,num_interact:189,Intrvl:15,num_users:437,errors:0
+rt:33.76,through:12.53,tt:0.41,num_interact:188,Intrvl:15,num_users:419,errors:0
+rt:33.18,through:12.07,tt:0.32,num_interact:181,Intrvl:15,num_users:463,errors:0
+rt:33.06,through:10.93,tt:0.35,num_interact:164,Intrvl:15,num_users:379,errors:0
+rt:35.71,through:10,tt:0.38,num_interact:150,Intrvl:15,num_users:498,errors:0
+rt:35.28,through:12.33,tt:0.32,num_interact:185,Intrvl:15,num_users:514,errors:0
+rt:37.5,through:12.73,tt:0.42,num_interact:191,Intrvl:15,num_users:497,errors:0
+rt:38.88,through:11.8,tt:0.39,num_interact:177,Intrvl:15,num_users:480,errors:0
+rt:40.72,through:9.93,tt:0.3,num_interact:149,Intrvl:15,num_users:400,errors:0
+rt:39.47,through:10,tt:0.29,num_interact:150,Intrvl:15,num_users:470,errors:0
+rt:38.25,through:12.4,tt:0.35,num_interact:186,Intrvl:15,num_users:403,errors:0
+rt:35.62,through:8.73,tt:0.35,num_interact:131,Intrvl:15,num_users:546,errors:0
+rt:37.01,through:12.27,tt:0.33,num_interact:184,Intrvl:15,num_users:410,errors:0
+rt:40.8,through:8.13,tt:0.34,num_interact:122,Intrvl:15,num_users:463,errors:0
+rt:40.4,through:10.67,tt:0.37,num_interact:160,Intrvl:15,num_users:417,errors:0
+rt:40.62,through:10.8,tt:0.35,num_interact:162,Intrvl:15,num_users:447,errors:0
+rt:36.74,through:12.13,tt:0.33,num_interact:182,Intrvl:15,num_users:455,errors:3
+rt:36.75,through:13.47,tt:0.34,num_interact:202,Intrvl:15,num_users:521,errors:0
+rt:30.89,through:19.2,tt:0.38,num_interact:288,Intrvl:15,num_users:484,errors:0
+rt:26.44,through:20.4,tt:0.36,num_interact:306,Intrvl:15,num_users:521,errors:0
+rt:24.19,through:17.87,tt:0.34,num_interact:268,Intrvl:15,num_users:438,errors:0
+rt:22.14,through:19.4,tt:0.35,num_interact:291,Intrvl:15,num_users:433,errors:0
+rt:19.68,through:21,tt:0.35,num_interact:315,Intrvl:15,num_users:452,errors:0
+rt:19.15,through:22.13,tt:0.36,num_interact:332,Intrvl:15,num_users:496,errors:0
+rt:17.43,through:20.33,tt:0.38,num_interact:305,Intrvl:15,num_users:507,errors:0
+rt:26.04,through:15.47,tt:0.37,num_interact:232,Intrvl:15,num_users:458,errors:0
+rt:25.95,through:15.47,tt:0.31,num_interact:232,Intrvl:15,num_users:421,errors:1
+rt:25.28,through:15.8,tt:0.37,num_interact:237,Intrvl:15,num_users:424,errors:8
+rt:26.3,through:15.6,tt:0.37,num_interact:234,Intrvl:15,num_users:431,errors:0
+rt:25.85,through:16.07,tt:0.36,num_interact:241,Intrvl:15,num_users:417,errors:10
+rt:25.12,through:16.33,tt:0.39,num_interact:245,Intrvl:15,num_users:468,errors:0
+rt:25.32,through:16.47,tt:0.33,num_interact:247,Intrvl:15,num_users:470,errors:17
+rt:29.7,through:15.93,tt:0.35,num_interact:239,Intrvl:15,num_users:508,errors:0
+rt:26.99,through:16.73,tt:0.31,num_interact:251,Intrvl:15,num_users:486,errors:23
+rt:31.37,through:14.47,tt:0.43,num_interact:217,Intrvl:15,num_users:473,errors:1
+rt:25.38,through:15.4,tt:0.38,num_interact:231,Intrvl:15,num_users:490,errors:24
+rt:32.23,through:14.2,tt:0.34,num_interact:213,Intrvl:15,num_users:442,errors:3
+rt:27.82,through:16.4,tt:0.36,num_interact:246,Intrvl:15,num_users:424,errors:22
+rt:29.42,through:14.07,tt:0.36,num_interact:211,Intrvl:15,num_users:482,errors:2
+rt:29.77,through:15.93,tt:0.39,num_interact:239,Intrvl:15,num_users:461,errors:9
+rt:27.85,through:15.73,tt:0.32,num_interact:236,Intrvl:15,num_users:490,errors:7
+rt:29.6,through:16.13,tt:0.4,num_interact:242,Intrvl:15,num_users:505,errors:1
+rt:29.75,through:15.13,tt:0.36,num_interact:227,Intrvl:15,num_users:482,errors:26
+rt:31.33,through:15.73,tt:0.33,num_interact:236,Intrvl:15,num_users:508,errors:0
+rt:29.69,through:17.4,tt:0.34,num_interact:261,Intrvl:15,num_users:515,errors:14
+rt:31.47,through:14.27,tt:0.35,num_interact:214,Intrvl:15,num_users:482,errors:1
+rt:24.32,through:20.67,tt:0.36,num_interact:310,Intrvl:15,num_users:444,errors:6
+rt:19.94,through:23.73,tt:0.33,num_interact:356,Intrvl:15,num_users:433,errors:1
+rt:17.25,through:23.33,tt:0.35,num_interact:350,Intrvl:15,num_users:403,errors:5
+rt:17.69,through:24.53,tt:0.34,num_interact:368,Intrvl:15,num_users:463,errors:5
+rt:17.61,through:22.93,tt:0.34,num_interact:344,Intrvl:15,num_users:444,errors:0
+rt:19.62,through:21.93,tt:0.34,num_interact:331,Intrvl:15,num_users:454,errors:11
+rt:19.28,through:25.33,tt:0.35,num_interact:380,Intrvl:15,num_users:452,errors:1
+rt:18.15,through:22.6,tt:0.33,num_interact:339,Intrvl:15,num_users:402,errors:6
+rt:16.8,through:24.87,tt:0.36,num_interact:375,Intrvl:15,num_users:500,errors:0
+rt:18.35,through:25.53,tt:0.38,num_interact:386,Intrvl:15,num_users:479,errors:0
+rt:18.52,through:26,tt:0.39,num_interact:390,Intrvl:15,num_users:491,errors:1
+rt:18.74,through:24.67,tt:0.36,num_interact:370,Intrvl:15,num_users:483,errors:0
+rt:19.52,through:24.67,tt:0.33,num_interact:370,Intrvl:15,num_users:519,errors:0
+rt:20.07,through:24.73,tt:0.33,num_interact:371,Intrvl:15,num_users:514,errors:0
+rt:20.81,through:25.4,tt:0.38,num_interact:381,Intrvl:15,num_users:518,errors:1
+rt:19.46,through:25.93,tt:0.36,num_interact:395,Intrvl:15,num_users:543,errors:0
+rt:20.61,through:22.8,tt:0.35,num_interact:342,Intrvl:15,num_users:487,errors:1
+rt:31.59,through:11.67,tt:0.36,num_interact:175,Intrvl:15,num_users:476,errors:0
+rt:31.67,through:12.6,tt:0.35,num_interact:189,Intrvl:15,num_users:413,errors:1
+rt:24.09,through:27,tt:0.35,num_interact:405,Intrvl:15,num_users:483,errors:0
+rt:18.39,through:24,tt:0.38,num_interact:360,Intrvl:15,num_users:480,errors:0
+rt:18.41,through:23.73,tt:0.34,num_interact:356,Intrvl:15,num_users:435,errors:0
+rt:17.82,through:25.6,tt:0.37,num_interact:384,Intrvl:15,num_users:482,errors:0
+rt:18.91,through:24.93,tt:0.36,num_interact:376,Intrvl:15,num_users:521,errors:0
+rt:18.95,through:22.8,tt:0.36,num_interact:342,Intrvl:15,num_users:444,errors:0
+rt:18.31,through:24.47,tt:0.33,num_interact:367,Intrvl:15,num_users:510,errors:0
+rt:19.32,through:22.8,tt:0.38,num_interact:342,Intrvl:15,num_users:447,errors:0
+rt:18.8,through:24.73,tt:0.38,num_interact:371,Intrvl:15,num_users:459,errors:0
+rt:17.79,through:24.33,tt:0.33,num_interact:365,Intrvl:15,num_users:442,errors:0
+rt:17.24,through:23.13,tt:0.34,num_interact:347,Intrvl:15,num_users:392,errors:0
+rt:17.17,through:25.4,tt:0.38,num_interact:381,Intrvl:15,num_users:535,errors:0
+rt:17.5,through:24.53,tt:0.37,num_interact:368,Intrvl:15,num_users:482,errors:0
+rt:19.28,through:24.73,tt:0.36,num_interact:371,Intrvl:15,num_users:490,errors:0
+rt:19.05,through:25.07,tt:0.34,num_interact:376,Intrvl:15,num_users:501,errors:0
+rt:19.13,through:26.07,tt:0.33,num_interact:391,Intrvl:15,num_users:522,errors:0
+rt:19.82,through:24.93,tt:0.35,num_interact:374,Intrvl:15,num_users:505,errors:0
+rt:18.91,through:23.47,tt:0.34,num_interact:352,Intrvl:15,num_users:455,errors:0
+rt:18.27,through:25.07,tt:0.33,num_interact:376,Intrvl:15,num_users:452,errors:0
+rt:18.25,through:24.8,tt:0.37,num_interact:372,Intrvl:15,num_users:522,errors:0
+rt:19.38,through:23.93,tt:0.36,num_interact:359,Intrvl:15,num_users:472,errors:0
+rt:18.45,through:23.27,tt:0.3,num_interact:349,Intrvl:15,num_users:442,errors:0
+rt:18.88,through:24.93,tt:0.35,num_interact:374,Intrvl:15,num_users:552,errors:0
+rt:19.78,through:24.8,tt:0.35,num_interact:372,Intrvl:15,num_users:538,errors:0
+rt:20.07,through:22.53,tt:0.34,num_interact:338,Intrvl:15,num_users:465,errors:0
+rt:19.26,through:23.8,tt:0.34,num_interact:357,Intrvl:15,num_users:470,errors:0
+rt:18.75,through:25.93,tt:0.35,num_interact:389,Intrvl:15,num_users:483,errors:0
+rt:18.36,through:24.13,tt:0.37,num_interact:362,Intrvl:15,num_users:456,errors:0
+rt:17.85,through:24,tt:0.34,num_interact:360,Intrvl:15,num_users:434,errors:0
+rt:17.26,through:25.27,tt:0.39,num_interact:379,Intrvl:15,num_users:469,errors:0
+rt:18.3,through:26.2,tt:0.35,num_interact:393,Intrvl:15,num_users:487,errors:0
+rt:17.69,through:24.93,tt:0.37,num_interact:374,Intrvl:15,num_users:477,errors:0
+rt:18.27,through:22.6,tt:0.37,num_interact:339,Intrvl:15,num_users:414,errors:0
+rt:17.53,through:24.93,tt:0.35,num_interact:374,Intrvl:15,num_users:500,errors:0
+rt:18.25,through:24.47,tt:0.37,num_interact:367,Intrvl:15,num_users:475,errors:0
+rt:18.96,through:25.27,tt:0.37,num_interact:381,Intrvl:15,num_users:524,errors:0
+rt:19.76,through:21.73,tt:0.38,num_interact:326,Intrvl:15,num_users:480,errors:0
+rt:22.49,through:21.27,tt:0.33,num_interact:319,Intrvl:15,num_users:479,errors:0
+rt:20.1,through:21.53,tt:0.33,num_interact:323,Intrvl:15,num_users:409,errors:0
+rt:17.8,through:24.2,tt:0.36,num_interact:369,Intrvl:15,num_users:490,errors:0
+rt:17.3,through:28.2,tt:0.34,num_interact:423,Intrvl:15,num_users:468,errors:0
+rt:16.8,through:25.87,tt:0.33,num_interact:388,Intrvl:15,num_users:477,errors:0
+rt:19.04,through:22,tt:0.38,num_interact:330,Intrvl:15,num_users:543,errors:0
+rt:21.01,through:23.53,tt:0.36,num_interact:353,Intrvl:15,num_users:455,errors:0
+rt:19.49,through:22.87,tt:0.34,num_interact:343,Intrvl:15,num_users:423,errors:0
+rt:17.39,through:24.13,tt:0.35,num_interact:362,Intrvl:15,num_users:455,errors:0
+rt:17.43,through:25,tt:0.36,num_interact:375,Intrvl:15,num_users:503,errors:0
+rt:18.92,through:25.6,tt:0.35,num_interact:384,Intrvl:15,num_users:477,errors:0
+rt:19.24,through:25.27,tt:0.38,num_interact:379,Intrvl:15,num_users:536,errors:0
+rt:19.7,through:24.13,tt:0.36,num_interact:362,Intrvl:15,num_users:494,errors:0
+rt:19.37,through:24.4,tt:0.35,num_interact:366,Intrvl:15,num_users:496,errors:17
+rt:17.98,through:30.73,tt:0.38,num_interact:461,Intrvl:15,num_users:526,errors:0
+rt:16.58,through:30.07,tt:0.38,num_interact:451,Intrvl:15,num_users:591,errors:0
+rt:17.29,through:37.33,tt:0.34,num_interact:572,Intrvl:15,num_users:482,errors:0
+rt:14.55,through:35.27,tt:0.34,num_interact:529,Intrvl:15,num_users:521,errors:0
+rt:15.63,through:33.53,tt:0.33,num_interact:503,Intrvl:15,num_users:514,errors:0
+rt:15.21,through:33.47,tt:0.36,num_interact:502,Intrvl:15,num_users:539,errors:0
+rt:14.75,through:32.73,tt:0.36,num_interact:493,Intrvl:15,num_users:501,errors:0
+rt:14.95,through:33.07,tt:0.32,num_interact:496,Intrvl:15,num_users:490,errors:0
+rt:13.45,through:30.6,tt:0.35,num_interact:459,Intrvl:15,num_users:431,errors:0
+rt:13.66,through:34.6,tt:0.35,num_interact:519,Intrvl:15,num_users:479,errors:0
+rt:13.55,through:33.33,tt:0.36,num_interact:500,Intrvl:15,num_users:508,errors:0
+rt:15.58,through:31.47,tt:0.33,num_interact:472,Intrvl:15,num_users:567,errors:0
+rt:15.3,through:33.53,tt:0.35,num_interact:504,Intrvl:15,num_users:504,errors:0
+rt:14.8,through:35.53,tt:0.35,num_interact:549,Intrvl:15,num_users:508,errors:0
+rt:15.13,through:38.67,tt:0.35,num_interact:580,Intrvl:15,num_users:536,errors:0
+rt:16.65,through:34.73,tt:0.36,num_interact:521,Intrvl:15,num_users:539,errors:0
+rt:16.32,through:31.67,tt:0.33,num_interact:475,Intrvl:15,num_users:577,errors:0
+rt:17.77,through:28.4,tt:0.33,num_interact:426,Intrvl:15,num_users:584,errors:0
+rt:19.52,through:37.33,tt:0.36,num_interact:560,Intrvl:15,num_users:613,errors:0
+rt:233.72,through:34.8,tt:0.38,num_interact:522,Intrvl:15,num_users:459,errors:0
+rt:348.74,through:52.87,tt:0.35,num_interact:793,Intrvl:15,num_users:652,errors:5
+rt:369.7,through:2.87,tt:0.35,num_interact:43,Intrvl:15,num_users:574,errors:4
+rt:339.42,through:2.93,tt:0.31,num_interact:44,Intrvl:15,num_users:546,errors:1
+rt:432.52,through:3.13,tt:0.26,num_interact:47,Intrvl:15,num_users:591,errors:1
+rt:327.57,through:16.93,tt:0.34,num_interact:254,Intrvl:15,num_users:545,errors:2
+rt:84.52,through:8.2,tt:0.32,num_interact:123,Intrvl:15,num_users:536,errors:0
+rt:63.45,through:8.4,tt:0.36,num_interact:126,Intrvl:15,num_users:525,errors:0
+rt:67.82,through:8.2,tt:0.35,num_interact:123,Intrvl:15,num_users:592,errors:0
+rt:63.23,through:7,tt:0.37,num_interact:105,Intrvl:15,num_users:539,errors:45
+rt:49.45,through:6.53,tt:0.37,num_interact:98,Intrvl:15,num_users:498,errors:4
+rt:59.48,through:5.6,tt:0.43,num_interact:84,Intrvl:15,num_users:532,errors:4
+rt:60.2,through:6.4,tt:0.36,num_interact:96,Intrvl:15,num_users:578,errors:9
+rt:86.98,through:6.2,tt:0.35,num_interact:93,Intrvl:15,num_users:466,errors:5
+rt:81.26,through:7.6,tt:0.3,num_interact:114,Intrvl:15,num_users:528,errors:0
+rt:64.35,through:5,tt:0.37,num_interact:75,Intrvl:15,num_users:668,errors:13
+rt:65.06,through:6.4,tt:0.38,num_interact:96,Intrvl:15,num_users:594,errors:0
+rt:65.43,through:7.07,tt:0.36,num_interact:106,Intrvl:15,num_users:581,errors:15
+rt:62.16,through:8.4,tt:0.41,num_interact:126,Intrvl:15,num_users:672,errors:0
+rt:72.1,through:6.8,tt:0.38,num_interact:102,Intrvl:15,num_users:658,errors:13
+rt:70.13,through:6.93,tt:0.42,num_interact:104,Intrvl:15,num_users:615,errors:0
+rt:73.86,through:7.87,tt:0.35,num_interact:118,Intrvl:15,num_users:592,errors:10
+rt:65.72,through:5.53,tt:0.43,num_interact:83,Intrvl:15,num_users:531,errors:1
+rt:70.39,through:6.33,tt:0.36,num_interact:95,Intrvl:15,num_users:522,errors:8
+rt:69.66,through:6.27,tt:0.4,num_interact:94,Intrvl:15,num_users:585,errors:0
+rt:71.87,through:7.73,tt:0.4,num_interact:116,Intrvl:15,num_users:610,errors:14
+rt:68.33,through:6.33,tt:0.37,num_interact:95,Intrvl:15,num_users:589,errors:5
+rt:65.86,through:7.93,tt:0.34,num_interact:119,Intrvl:15,num_users:577,errors:8
+rt:69.6,through:6.33,tt:0.39,num_interact:95,Intrvl:15,num_users:557,errors:16
+rt:66.49,through:7.53,tt:0.33,num_interact:113,Intrvl:15,num_users:574,errors:0
+rt:76.34,through:6.73,tt:0.3,num_interact:101,Intrvl:15,num_users:568,errors:24
+rt:67.77,through:8.07,tt:0.36,num_interact:121,Intrvl:15,num_users:566,errors:0
+rt:83.73,through:6.93,tt:0.37,num_interact:104,Intrvl:15,num_users:528,errors:14
+rt:62.92,through:6.27,tt:0.35,num_interact:94,Intrvl:15,num_users:498,errors:0
+rt:73.46,through:8.33,tt:0.32,num_interact:125,Intrvl:15,num_users:507,errors:9
+rt:58.57,through:6.47,tt:0.39,num_interact:97,Intrvl:15,num_users:498,errors:3
+rt:62.87,through:6.93,tt:0.38,num_interact:104,Intrvl:15,num_users:442,errors:10
+rt:57.73,through:6.4,tt:0.31,num_interact:96,Intrvl:15,num_users:491,errors:4
+rt:59.3,through:7.13,tt:0.37,num_interact:107,Intrvl:15,num_users:560,errors:4
+rt:56.32,through:6.6,tt:0.36,num_interact:99,Intrvl:15,num_users:588,errors:16
+rt:55.5,through:8.47,tt:0.4,num_interact:127,Intrvl:15,num_users:505,errors:0
+rt:60.36,through:6.47,tt:0.34,num_interact:97,Intrvl:15,num_users:518,errors:19
+rt:59.46,through:5.67,tt:0.35,num_interact:85,Intrvl:15,num_users:501,errors:0
+rt:73.69,through:6.8,tt:0.35,num_interact:102,Intrvl:15,num_users:461,errors:4
+rt:60.17,through:6.27,tt:0.34,num_interact:94,Intrvl:15,num_users:536,errors:1
+rt:73.04,through:6.87,tt:0.37,num_interact:103,Intrvl:15,num_users:522,errors:19
+rt:57.53,through:6.33,tt:0.27,num_interact:95,Intrvl:15,num_users:430,errors:0
+rt:62.16,through:5.2,tt:0.39,num_interact:78,Intrvl:15,num_users:536,errors:14
+rt:56.59,through:5.67,tt:0.39,num_interact:85,Intrvl:15,num_users:651,errors:4
+rt:66.3,through:7.33,tt:0.35,num_interact:110,Intrvl:15,num_users:563,errors:3
+rt:63.19,through:7.73,tt:0.45,num_interact:116,Intrvl:15,num_users:623,errors:9
+rt:69.07,through:6.73,tt:0.45,num_interact:101,Intrvl:15,num_users:511,errors:0
+rt:75.27,through:4.4,tt:0.35,num_interact:66,Intrvl:15,num_users:578,errors:16
+rt:63.6,through:7.33,tt:0.37,num_interact:110,Intrvl:15,num_users:529,errors:0
+rt:68.62,through:6.2,tt:0.37,num_interact:93,Intrvl:15,num_users:505,errors:12
+rt:67.57,through:6.87,tt:0.38,num_interact:103,Intrvl:15,num_users:585,errors:1
+rt:75.11,through:5.6,tt:0.35,num_interact:84,Intrvl:15,num_users:466,errors:10
+rt:63.16,through:6.27,tt:0.36,num_interact:94,Intrvl:15,num_users:532,errors:0
+rt:72.92,through:6.67,tt:0.38,num_interact:100,Intrvl:15,num_users:542,errors:24
+rt:66.55,through:4.8,tt:0.31,num_interact:72,Intrvl:15,num_users:620,errors:3
+rt:68.36,through:8.07,tt:0.3,num_interact:121,Intrvl:15,num_users:552,errors:2
+rt:68.55,through:8,tt:0.34,num_interact:120,Intrvl:15,num_users:547,errors:6
+rt:43.28,through:16.4,tt:0.35,num_interact:246,Intrvl:15,num_users:550,errors:0
+rt:41.69,through:14.33,tt:0.34,num_interact:215,Intrvl:15,num_users:508,errors:26
+rt:28.33,through:21.47,tt:0.39,num_interact:322,Intrvl:15,num_users:491,errors:1
+rt:20.44,through:22.07,tt:0.38,num_interact:331,Intrvl:15,num_users:617,errors:16
+rt:23.13,through:25.87,tt:0.37,num_interact:388,Intrvl:15,num_users:627,errors:0
+rt:24.43,through:25.07,tt:0.35,num_interact:376,Intrvl:15,num_users:605,errors:7
+rt:22.06,through:24.27,tt:0.37,num_interact:364,Intrvl:15,num_users:668,errors:0
+rt:22.95,through:21.8,tt:0.34,num_interact:327,Intrvl:15,num_users:549,errors:8
+rt:21.01,through:24.67,tt:0.35,num_interact:370,Intrvl:15,num_users:571,errors:0
+rt:20.83,through:23.07,tt:0.35,num_interact:346,Intrvl:15,num_users:584,errors:4
+rt:20.94,through:24.47,tt:0.35,num_interact:367,Intrvl:15,num_users:587,errors:0
+rt:22.33,through:23,tt:0.36,num_interact:345,Intrvl:15,num_users:529,errors:1
+rt:19.07,through:24.8,tt:0.32,num_interact:372,Intrvl:15,num_users:556,errors:0
+rt:19.93,through:24.47,tt:0.35,num_interact:367,Intrvl:15,num_users:612,errors:7
+rt:22.34,through:23.8,tt:0.35,num_interact:357,Intrvl:15,num_users:571,errors:0
+rt:21.36,through:24.8,tt:0.34,num_interact:372,Intrvl:15,num_users:571,errors:1
+rt:20.03,through:24.27,tt:0.34,num_interact:364,Intrvl:15,num_users:526,errors:0
+rt:19.41,through:24.07,tt:0.33,num_interact:361,Intrvl:15,num_users:620,errors:1
+rt:21.36,through:25.6,tt:0.34,num_interact:384,Intrvl:15,num_users:679,errors:0
+rt:22.69,through:23.07,tt:0.33,num_interact:346,Intrvl:15,num_users:564,errors:6
+rt:20.84,through:22.87,tt:0.36,num_interact:343,Intrvl:15,num_users:535,errors:7
+rt:19.48,through:24.2,tt:0.37,num_interact:363,Intrvl:15,num_users:606,errors:1
+rt:22.53,through:23.67,tt:0.38,num_interact:355,Intrvl:15,num_users:629,errors:3
+rt:21.16,through:23.67,tt:0.35,num_interact:355,Intrvl:15,num_users:568,errors:0
+rt:22.01,through:25.6,tt:0.37,num_interact:384,Intrvl:15,num_users:659,errors:0
+rt:21.69,through:22.87,tt:0.34,num_interact:343,Intrvl:15,num_users:624,errors:0
+rt:23.29,through:24.53,tt:0.38,num_interact:368,Intrvl:15,num_users:592,errors:2
+rt:21.48,through:24.2,tt:0.36,num_interact:366,Intrvl:15,num_users:616,errors:0
+rt:20.76,through:24.67,tt:0.35,num_interact:370,Intrvl:15,num_users:612,errors:12
+rt:23.2,through:25.93,tt:0.35,num_interact:389,Intrvl:15,num_users:608,errors:0
+rt:20.58,through:25.13,tt:0.37,num_interact:377,Intrvl:15,num_users:617,errors:3
+rt:23.45,through:25.4,tt:0.35,num_interact:381,Intrvl:15,num_users:599,errors:0
+rt:20.25,through:21.47,tt:0.37,num_interact:322,Intrvl:15,num_users:498,errors:0
+rt:19.75,through:24.07,tt:0.38,num_interact:361,Intrvl:15,num_users:564,errors:5
+rt:19.7,through:24.4,tt:0.35,num_interact:366,Intrvl:15,num_users:591,errors:0
+rt:21.17,through:25.2,tt:0.36,num_interact:378,Intrvl:15,num_users:648,errors:0
+rt:22.23,through:22,tt:0.38,num_interact:330,Intrvl:15,num_users:531,errors:0
+rt:20.82,through:24.47,tt:0.37,num_interact:368,Intrvl:15,num_users:714,errors:0
+rt:22.16,through:24.13,tt:0.36,num_interact:362,Intrvl:15,num_users:690,errors:0
+rt:23.51,through:22.93,tt:0.34,num_interact:346,Intrvl:15,num_users:641,errors:8
+rt:23.97,through:24.67,tt:0.35,num_interact:370,Intrvl:15,num_users:746,errors:0
+rt:24.74,through:24.2,tt:0.36,num_interact:363,Intrvl:15,num_users:703,errors:1
+rt:24.91,through:23.2,tt:0.36,num_interact:358,Intrvl:15,num_users:643,errors:0
+rt:24.43,through:24.47,tt:0.36,num_interact:367,Intrvl:15,num_users:732,errors:1
+rt:24.8,through:22.87,tt:0.32,num_interact:343,Intrvl:15,num_users:634,errors:7
+rt:23.1,through:23.93,tt:0.36,num_interact:362,Intrvl:15,num_users:651,errors:0
+rt:24.68,through:22.87,tt:0.37,num_interact:343,Intrvl:15,num_users:617,errors:4
+rt:23.16,through:25.33,tt:0.37,num_interact:380,Intrvl:15,num_users:650,errors:0
+rt:23.57,through:22.73,tt:0.37,num_interact:341,Intrvl:15,num_users:567,errors:0
+rt:21.42,through:24.8,tt:0.36,num_interact:383,Intrvl:15,num_users:622,errors:0
+rt:21.63,through:24.53,tt:0.37,num_interact:368,Intrvl:15,num_users:694,errors:12
+rt:25.5,through:25,tt:0.36,num_interact:375,Intrvl:15,num_users:662,errors:0
+rt:23.46,through:22.27,tt:0.35,num_interact:334,Intrvl:15,num_users:591,errors:1
+rt:24.47,through:24.73,tt:0.36,num_interact:371,Intrvl:15,num_users:717,errors:2
+rt:22.95,through:24.93,tt:0.36,num_interact:376,Intrvl:15,num_users:672,errors:2
+rt:24.56,through:23.87,tt:0.41,num_interact:358,Intrvl:15,num_users:648,errors:3
+rt:22.4,through:23.8,tt:0.36,num_interact:357,Intrvl:15,num_users:634,errors:0
+rt:24.28,through:26,tt:0.37,num_interact:390,Intrvl:15,num_users:693,errors:4
+rt:23.64,through:26.2,tt:0.35,num_interact:395,Intrvl:15,num_users:742,errors:1
+rt:26.32,through:23.53,tt:0.39,num_interact:353,Intrvl:15,num_users:601,errors:0
+rt:22.7,through:22.07,tt:0.38,num_interact:334,Intrvl:15,num_users:638,errors:0
+rt:23.61,through:26.07,tt:0.34,num_interact:391,Intrvl:15,num_users:700,errors:1
+rt:22.02,through:23.33,tt:0.37,num_interact:350,Intrvl:15,num_users:708,errors:0
+rt:24.16,through:26.2,tt:0.36,num_interact:393,Intrvl:15,num_users:673,errors:2
+rt:23.64,through:23.33,tt:0.39,num_interact:350,Intrvl:15,num_users:648,errors:1
+rt:23.5,through:25.4,tt:0.37,num_interact:381,Intrvl:15,num_users:673,errors:13
+rt:25.07,through:24.4,tt:0.37,num_interact:366,Intrvl:15,num_users:638,errors:4
+rt:21.47,through:33.13,tt:0.36,num_interact:497,Intrvl:15,num_users:675,errors:18
+rt:22.86,through:28.73,tt:0.33,num_interact:431,Intrvl:15,num_users:731,errors:4
+rt:26.69,through:28.33,tt:0.34,num_interact:425,Intrvl:15,num_users:661,errors:0
+rt:20.96,through:22.13,tt:0.36,num_interact:332,Intrvl:15,num_users:742,errors:2
+rt:25.08,through:30.73,tt:0.39,num_interact:461,Intrvl:15,num_users:654,errors:0
+rt:172.15,through:63.2,tt:0.39,num_interact:1392,Intrvl:15,num_users:762,errors:28
+rt:896.01,through:1.13,tt:0.45,num_interact:17,Intrvl:15,num_users:708,errors:0
+rt:839.27,through:1.6,tt:0.33,num_interact:24,Intrvl:15,num_users:643,errors:1
+rt:633.2,through:42.27,tt:0.34,num_interact:634,Intrvl:15,num_users:736,errors:21
+rt:122.01,through:17,tt:0.38,num_interact:255,Intrvl:15,num_users:753,errors:0
+rt:135.22,through:15.33,tt:0.31,num_interact:230,Intrvl:15,num_users:703,errors:0
+rt:53.98,through:15.6,tt:0.35,num_interact:234,Intrvl:15,num_users:717,errors:0
+rt:32.03,through:14,tt:0.3,num_interact:210,Intrvl:15,num_users:655,errors:0
+rt:31.93,through:15.33,tt:0.36,num_interact:230,Intrvl:15,num_users:693,errors:0
+rt:29.28,through:16.2,tt:0.36,num_interact:243,Intrvl:15,num_users:640,errors:0
+rt:29.16,through:14.73,tt:0.32,num_interact:221,Intrvl:15,num_users:665,errors:0
+rt:28.96,through:17.53,tt:0.33,num_interact:263,Intrvl:15,num_users:676,errors:0
+rt:27.61,through:16.93,tt:0.35,num_interact:254,Intrvl:15,num_users:686,errors:0
+rt:28.62,through:16.6,tt:0.39,num_interact:252,Intrvl:15,num_users:710,errors:0
+rt:29.54,through:17.2,tt:0.34,num_interact:258,Intrvl:15,num_users:714,errors:0
+rt:30.02,through:15.47,tt:0.39,num_interact:232,Intrvl:15,num_users:636,errors:0
+rt:30.12,through:14.67,tt:0.35,num_interact:220,Intrvl:15,num_users:676,errors:0
+rt:29.23,through:15.93,tt:0.35,num_interact:239,Intrvl:15,num_users:678,errors:0
+rt:29.65,through:17.8,tt:0.4,num_interact:267,Intrvl:15,num_users:711,errors:0
+rt:29.11,through:16.53,tt:0.33,num_interact:248,Intrvl:15,num_users:697,errors:0
+rt:30.57,through:16.4,tt:0.32,num_interact:246,Intrvl:15,num_users:741,errors:0
+rt:30.36,through:17.07,tt:0.34,num_interact:256,Intrvl:15,num_users:791,errors:0
+rt:31.82,through:17,tt:0.34,num_interact:255,Intrvl:15,num_users:826,errors:0
+rt:34.03,through:14.67,tt:0.35,num_interact:220,Intrvl:15,num_users:739,errors:0
+rt:34.94,through:12.8,tt:0.36,num_interact:192,Intrvl:15,num_users:676,errors:0
+rt:34.32,through:13.87,tt:0.35,num_interact:208,Intrvl:15,num_users:644,errors:0
+rt:34.65,through:15.73,tt:0.34,num_interact:236,Intrvl:15,num_users:672,errors:0
+rt:30.02,through:16,tt:0.33,num_interact:240,Intrvl:15,num_users:661,errors:0
+rt:28.83,through:14.73,tt:0.33,num_interact:221,Intrvl:15,num_users:602,errors:9
+rt:28.87,through:8.07,tt:0.36,num_interact:121,Intrvl:15,num_users:666,errors:0
+rt:40.52,through:7.8,tt:0.35,num_interact:117,Intrvl:15,num_users:654,errors:0
+rt:44.8,through:8.4,tt:0.36,num_interact:126,Intrvl:15,num_users:713,errors:0
+rt:54.84,through:7.13,tt:0.42,num_interact:107,Intrvl:15,num_users:655,errors:17
+rt:57.34,through:8.07,tt:0.35,num_interact:121,Intrvl:15,num_users:697,errors:0
+rt:58.15,through:6.53,tt:0.36,num_interact:98,Intrvl:15,num_users:732,errors:13
+rt:60.48,through:6.8,tt:0.31,num_interact:102,Intrvl:15,num_users:671,errors:0
+rt:72.19,through:6.6,tt:0.32,num_interact:99,Intrvl:15,num_users:704,errors:20
+rt:57.28,through:5.33,tt:0.31,num_interact:80,Intrvl:15,num_users:641,errors:0
+rt:70.48,through:6.33,tt:0.33,num_interact:95,Intrvl:15,num_users:657,errors:13
+rt:67.93,through:7.73,tt:0.36,num_interact:116,Intrvl:15,num_users:685,errors:2
+rt:74.91,through:6.6,tt:0.36,num_interact:99,Intrvl:15,num_users:722,errors:10
+rt:71.47,through:7.87,tt:0.33,num_interact:118,Intrvl:15,num_users:718,errors:0
+rt:65.58,through:8.6,tt:0.34,num_interact:129,Intrvl:15,num_users:732,errors:8
+rt:67.23,through:7.47,tt:0.38,num_interact:112,Intrvl:15,num_users:699,errors:6
+rt:66.13,through:7.53,tt:0.38,num_interact:113,Intrvl:15,num_users:708,errors:1
+rt:64.98,through:6.67,tt:0.38,num_interact:100,Intrvl:15,num_users:654,errors:14
+rt:63.61,through:6.6,tt:0.35,num_interact:99,Intrvl:15,num_users:633,errors:0
+rt:71.23,through:5.73,tt:0.33,num_interact:86,Intrvl:15,num_users:692,errors:19
+rt:62.28,through:7.67,tt:0.37,num_interact:115,Intrvl:15,num_users:610,errors:0
+rt:70.46,through:6.47,tt:0.38,num_interact:97,Intrvl:15,num_users:638,errors:18
+rt:63.05,through:6.33,tt:0.29,num_interact:95,Intrvl:15,num_users:673,errors:0
+rt:74.25,through:6.33,tt:0.33,num_interact:95,Intrvl:15,num_users:664,errors:14
+rt:61.04,through:7.13,tt:0.45,num_interact:107,Intrvl:15,num_users:697,errors:2
+rt:71.54,through:8.8,tt:0.35,num_interact:132,Intrvl:15,num_users:694,errors:15
+rt:59.34,through:6.93,tt:0.44,num_interact:104,Intrvl:15,num_users:774,errors:2
+rt:66.93,through:8.07,tt:0.39,num_interact:121,Intrvl:15,num_users:685,errors:11
+rt:65.42,through:6.6,tt:0.37,num_interact:99,Intrvl:15,num_users:692,errors:13
+rt:65.21,through:8,tt:0.35,num_interact:120,Intrvl:15,num_users:647,errors:0
+rt:75.06,through:4.67,tt:0.27,num_interact:70,Intrvl:15,num_users:658,errors:19
+rt:62.71,through:6.93,tt:0.38,num_interact:104,Intrvl:15,num_users:673,errors:0
+rt:80.82,through:6.8,tt:0.36,num_interact:102,Intrvl:15,num_users:594,errors:12
+rt:67,through:6.4,tt:0.37,num_interact:96,Intrvl:15,num_users:641,errors:3
+rt:74.47,through:6.33,tt:0.46,num_interact:95,Intrvl:15,num_users:584,errors:8
+rt:62.68,through:6.13,tt:0.33,num_interact:92,Intrvl:15,num_users:629,errors:0
+rt:68.14,through:7,tt:0.28,num_interact:105,Intrvl:15,num_users:679,errors:8
+rt:61.21,through:5.73,tt:0.37,num_interact:86,Intrvl:15,num_users:578,errors:6
+rt:64.18,through:7.07,tt:0.36,num_interact:106,Intrvl:15,num_users:595,errors:3
+rt:59.13,through:4.53,tt:0.37,num_interact:68,Intrvl:15,num_users:606,errors:12
+rt:59.21,through:6.27,tt:0.37,num_interact:94,Intrvl:15,num_users:720,errors:0
+rt:71.53,through:7.4,tt:0.38,num_interact:111,Intrvl:15,num_users:704,errors:17
+rt:61.25,through:8.47,tt:0.38,num_interact:127,Intrvl:15,num_users:690,errors:0
+rt:68.09,through:6.6,tt:0.38,num_interact:99,Intrvl:15,num_users:655,errors:17
+rt:61.46,through:4.53,tt:0.38,num_interact:68,Intrvl:15,num_users:613,errors:0
+rt:69.19,through:8.2,tt:0.4,num_interact:123,Intrvl:15,num_users:708,errors:2
+rt:66.07,through:6.87,tt:0.35,num_interact:103,Intrvl:15,num_users:715,errors:3
+rt:70.47,through:7.8,tt:0.35,num_interact:117,Intrvl:15,num_users:651,errors:7
+rt:59.24,through:6.33,tt:0.38,num_interact:95,Intrvl:15,num_users:661,errors:11
+rt:62.94,through:6.93,tt:0.41,num_interact:104,Intrvl:15,num_users:701,errors:1
+rt:65.2,through:6.47,tt:0.38,num_interact:97,Intrvl:15,num_users:686,errors:11
+rt:58.15,through:10.33,tt:0.4,num_interact:155,Intrvl:15,num_users:704,errors:0
+rt:49.63,through:14.47,tt:0.37,num_interact:217,Intrvl:15,num_users:669,errors:16
+rt:39.02,through:15,tt:0.34,num_interact:225,Intrvl:15,num_users:631,errors:0
+rt:33,through:14.53,tt:0.36,num_interact:218,Intrvl:15,num_users:671,errors:11
+rt:32.21,through:15.47,tt:0.37,num_interact:232,Intrvl:15,num_users:720,errors:0
+rt:34.46,through:15.53,tt:0.31,num_interact:233,Intrvl:15,num_users:680,errors:7
+rt:32.24,through:16.33,tt:0.33,num_interact:245,Intrvl:15,num_users:708,errors:0
+rt:33.07,through:13.73,tt:0.33,num_interact:206,Intrvl:15,num_users:631,errors:0
+rt:31.39,through:15.47,tt:0.34,num_interact:232,Intrvl:15,num_users:700,errors:0
+rt:30.08,through:14.27,tt:0.35,num_interact:214,Intrvl:15,num_users:613,errors:0
+rt:29.93,through:15.27,tt:0.32,num_interact:229,Intrvl:15,num_users:676,errors:0
+rt:28.58,through:17.27,tt:0.39,num_interact:259,Intrvl:15,num_users:679,errors:0
+rt:31.06,through:14.4,tt:0.32,num_interact:216,Intrvl:15,num_users:676,errors:0
+rt:29.92,through:17.53,tt:0.32,num_interact:263,Intrvl:15,num_users:739,errors:0
+rt:32.36,through:15.47,tt:0.35,num_interact:232,Intrvl:15,num_users:710,errors:0
+rt:32.46,through:16.73,tt:0.33,num_interact:251,Intrvl:15,num_users:735,errors:0
+rt:30.97,through:13.47,tt:0.39,num_interact:202,Intrvl:15,num_users:609,errors:0
+rt:30.79,through:13.47,tt:0.35,num_interact:202,Intrvl:15,num_users:710,errors:0
+rt:31.39,through:15.6,tt:0.38,num_interact:234,Intrvl:15,num_users:699,errors:0
+rt:31.11,through:16.73,tt:0.28,num_interact:251,Intrvl:15,num_users:687,errors:0
+rt:31.64,through:15.53,tt:0.37,num_interact:233,Intrvl:15,num_users:755,errors:0
+rt:31.17,through:17.67,tt:0.39,num_interact:265,Intrvl:15,num_users:806,errors:0
+rt:33.74,through:16.6,tt:0.37,num_interact:249,Intrvl:15,num_users:797,errors:0
+rt:34.09,through:16.07,tt:0.35,num_interact:241,Intrvl:15,num_users:770,errors:0
+rt:34.44,through:14.33,tt:0.34,num_interact:215,Intrvl:15,num_users:659,errors:0
+rt:34.34,through:14.6,tt:0.36,num_interact:219,Intrvl:15,num_users:640,errors:0
+rt:30.39,through:15,tt:0.3,num_interact:225,Intrvl:15,num_users:749,errors:0
+rt:34.87,through:12.13,tt:0.37,num_interact:182,Intrvl:15,num_users:575,errors:0
+rt:29.91,through:13.53,tt:0.31,num_interact:203,Intrvl:15,num_users:792,errors:0
+rt:32.33,through:13.07,tt:0.37,num_interact:196,Intrvl:15,num_users:699,errors:0
+rt:32.98,through:16.27,tt:0.39,num_interact:244,Intrvl:15,num_users:728,errors:0
+rt:33.69,through:14.27,tt:0.37,num_interact:214,Intrvl:15,num_users:717,errors:0
+rt:33.34,through:14.67,tt:0.3,num_interact:220,Intrvl:15,num_users:669,errors:0
+rt:31.94,through:16.13,tt:0.33,num_interact:242,Intrvl:15,num_users:699,errors:0
+rt:31.87,through:15.6,tt:0.36,num_interact:234,Intrvl:15,num_users:643,errors:0
+rt:30.45,through:15.27,tt:0.37,num_interact:229,Intrvl:15,num_users:685,errors:1
+rt:30.04,through:14.8,tt:0.36,num_interact:222,Intrvl:15,num_users:630,errors:0
+rt:30.11,through:15.73,tt:0.34,num_interact:236,Intrvl:15,num_users:734,errors:2
+rt:32.38,through:15.53,tt:0.33,num_interact:233,Intrvl:15,num_users:692,errors:0
+rt:29.8,through:15.33,tt:0.35,num_interact:230,Intrvl:15,num_users:724,errors:0
+rt:34.11,through:14.67,tt:0.34,num_interact:220,Intrvl:15,num_users:651,errors:0
+rt:30.79,through:15.53,tt:0.39,num_interact:233,Intrvl:15,num_users:662,errors:1
+rt:31.74,through:15.33,tt:0.35,num_interact:230,Intrvl:15,num_users:627,errors:0
+rt:29.24,through:15.53,tt:0.35,num_interact:233,Intrvl:15,num_users:610,errors:0
+rt:26.39,through:15.93,tt:0.33,num_interact:239,Intrvl:15,num_users:673,errors:1
+rt:29.25,through:16.33,tt:0.38,num_interact:245,Intrvl:15,num_users:661,errors:0
+rt:28.79,through:16.67,tt:0.38,num_interact:250,Intrvl:15,num_users:714,errors:0
+rt:30.47,through:14.93,tt:0.35,num_interact:224,Intrvl:15,num_users:651,errors:0
+rt:30.24,through:14.13,tt:0.34,num_interact:212,Intrvl:15,num_users:616,errors:0
+rt:28.74,through:15.87,tt:0.39,num_interact:241,Intrvl:15,num_users:687,errors:0
+rt:29.36,through:24.67,tt:0.38,num_interact:370,Intrvl:15,num_users:693,errors:0
+rt:29.93,through:15.93,tt:0.34,num_interact:239,Intrvl:15,num_users:652,errors:0
+rt:29.73,through:15.47,tt:0.35,num_interact:232,Intrvl:15,num_users:736,errors:0
+rt:30.36,through:15,tt:0.33,num_interact:225,Intrvl:15,num_users:648,errors:0
+rt:32.19,through:15.67,tt:0.35,num_interact:235,Intrvl:15,num_users:671,errors:0
+rt:30.26,through:16.47,tt:0.36,num_interact:247,Intrvl:15,num_users:745,errors:0
+rt:31.02,through:15.53,tt:0.4,num_interact:233,Intrvl:15,num_users:699,errors:0
+rt:32.49,through:16,tt:0.37,num_interact:240,Intrvl:15,num_users:689,errors:0
+rt:30.97,through:16.4,tt:0.33,num_interact:246,Intrvl:15,num_users:697,errors:0
+rt:30.77,through:16.27,tt:0.33,num_interact:244,Intrvl:15,num_users:683,errors:0
+rt:31.2,through:16.4,tt:0.34,num_interact:247,Intrvl:15,num_users:710,errors:0
+rt:30.16,through:16.07,tt:0.33,num_interact:241,Intrvl:15,num_users:675,errors:0
+rt:31.52,through:16.53,tt:0.33,num_interact:248,Intrvl:15,num_users:672,errors:0
+rt:29.91,through:16.53,tt:0.38,num_interact:248,Intrvl:15,num_users:671,errors:0
+rt:28.72,through:15.4,tt:0.33,num_interact:231,Intrvl:15,num_users:640,errors:0
+rt:30.51,through:14.47,tt:0.34,num_interact:217,Intrvl:15,num_users:567,errors:0
+rt:26.02,through:15.47,tt:0.34,num_interact:232,Intrvl:15,num_users:592,errors:0
+rt:25.62,through:15.93,tt:0.35,num_interact:239,Intrvl:15,num_users:598,errors:0
+rt:26.24,through:14.93,tt:0.36,num_interact:224,Intrvl:15,num_users:546,errors:4
+rt:20.89,through:18.93,tt:0.38,num_interact:284,Intrvl:15,num_users:648,errors:0
+rt:19.96,through:25.33,tt:0.41,num_interact:380,Intrvl:15,num_users:707,errors:0
+rt:20.69,through:21.47,tt:0.35,num_interact:322,Intrvl:15,num_users:599,errors:0
+rt:17.87,through:23.27,tt:0.38,num_interact:349,Intrvl:15,num_users:664,errors:0
+rt:20.21,through:23.93,tt:0.39,num_interact:361,Intrvl:15,num_users:721,errors:0
+rt:21.12,through:26.2,tt:0.38,num_interact:393,Intrvl:15,num_users:774,errors:0
+rt:21.2,through:21,tt:0.36,num_interact:315,Intrvl:15,num_users:634,errors:0
+rt:20.18,through:22.2,tt:0.38,num_interact:333,Intrvl:15,num_users:596,errors:0
+rt:19.2,through:23.67,tt:0.4,num_interact:355,Intrvl:15,num_users:683,errors:0
+rt:18.91,through:23.07,tt:0.36,num_interact:346,Intrvl:15,num_users:627,errors:0
+rt:18.18,through:23.27,tt:0.32,num_interact:349,Intrvl:15,num_users:599,errors:0
+rt:18.11,through:24.27,tt:0.35,num_interact:364,Intrvl:15,num_users:651,errors:0
+rt:17.92,through:25.47,tt:0.36,num_interact:382,Intrvl:15,num_users:655,errors:0
+rt:19.44,through:25.27,tt:0.4,num_interact:379,Intrvl:15,num_users:648,errors:0
+rt:18.17,through:23.2,tt:0.35,num_interact:348,Intrvl:15,num_users:606,errors:0
+rt:17.29,through:25.27,tt:0.35,num_interact:379,Intrvl:15,num_users:633,errors:0
+rt:18.52,through:25,tt:0.37,num_interact:375,Intrvl:15,num_users:640,errors:0
+rt:18.52,through:24.53,tt:0.38,num_interact:368,Intrvl:15,num_users:623,errors:0
+rt:17.72,through:25.73,tt:0.36,num_interact:386,Intrvl:15,num_users:622,errors:0
+rt:17.81,through:24.73,tt:0.36,num_interact:371,Intrvl:15,num_users:624,errors:0
+rt:17.94,through:24.93,tt:0.35,num_interact:374,Intrvl:15,num_users:603,errors:0
+rt:17.24,through:25.2,tt:0.34,num_interact:385,Intrvl:15,num_users:623,errors:0
+rt:17.06,through:24.73,tt:0.35,num_interact:371,Intrvl:15,num_users:647,errors:0
+rt:18.1,through:23.6,tt:0.37,num_interact:355,Intrvl:15,num_users:587,errors:0
+rt:16.81,through:23.8,tt:0.36,num_interact:357,Intrvl:15,num_users:574,errors:0
+rt:15.6,through:23.87,tt:0.34,num_interact:358,Intrvl:15,num_users:543,errors:0
+rt:16.47,through:25.2,tt:0.41,num_interact:378,Intrvl:15,num_users:644,errors:0
+rt:17.65,through:22.2,tt:0.35,num_interact:333,Intrvl:15,num_users:566,errors:0
+rt:15.1,through:23.2,tt:0.34,num_interact:348,Intrvl:15,num_users:554,errors:0
+rt:16.06,through:25.13,tt:0.34,num_interact:382,Intrvl:15,num_users:598,errors:0
+rt:17.05,through:23.8,tt:0.4,num_interact:357,Intrvl:15,num_users:543,errors:0
+rt:15.19,through:24,tt:0.34,num_interact:360,Intrvl:15,num_users:595,errors:13
+rt:14.53,through:27.07,tt:0.33,num_interact:406,Intrvl:15,num_users:556,errors:0
+rt:12.15,through:31.93,tt:0.35,num_interact:479,Intrvl:15,num_users:542,errors:0
+rt:10.87,through:33.53,tt:0.35,num_interact:510,Intrvl:15,num_users:545,errors:0
+rt:11.08,through:34.2,tt:0.37,num_interact:535,Intrvl:15,num_users:542,errors:0
+rt:11.82,through:34.2,tt:0.37,num_interact:516,Intrvl:15,num_users:622,errors:0
+rt:12.25,through:32.67,tt:0.34,num_interact:490,Intrvl:15,num_users:591,errors:0
+rt:12.35,through:33,tt:0.34,num_interact:509,Intrvl:15,num_users:580,errors:0
+rt:13.19,through:32.07,tt:0.36,num_interact:481,Intrvl:15,num_users:661,errors:0
+rt:14.65,through:33.27,tt:0.34,num_interact:513,Intrvl:15,num_users:652,errors:0
+rt:13.39,through:32.6,tt:0.34,num_interact:489,Intrvl:15,num_users:599,errors:0
+rt:12.58,through:33.33,tt:0.35,num_interact:500,Intrvl:15,num_users:630,errors:0
+rt:61.21,through:55.13,tt:0.38,num_interact:827,Intrvl:15,num_users:783,errors:0
+rt:46,through:24.73,tt:0.34,num_interact:380,Intrvl:15,num_users:636,errors:0
+rt:24.53,through:13.73,tt:0.36,num_interact:206,Intrvl:15,num_users:707,errors:0
+rt:27.82,through:2.2,tt:0.44,num_interact:33,Intrvl:15,num_users:657,errors:0
+rt:41.29,through:26.87,tt:0.33,num_interact:403,Intrvl:15,num_users:687,errors:0
+rt:19.53,through:24.33,tt:0.32,num_interact:365,Intrvl:15,num_users:605,errors:0
+rt:14.87,through:33.4,tt:0.34,num_interact:501,Intrvl:15,num_users:592,errors:0
+rt:12.16,through:34,tt:0.36,num_interact:510,Intrvl:15,num_users:595,errors:0
+rt:12.7,through:31.93,tt:0.35,num_interact:479,Intrvl:15,num_users:626,errors:0
+rt:15.63,through:39.13,tt:0.35,num_interact:587,Intrvl:15,num_users:643,errors:0
+rt:29.03,through:25.87,tt:0.37,num_interact:388,Intrvl:15,num_users:627,errors:0
+rt:18.49,through:23.4,tt:0.35,num_interact:460,Intrvl:15,num_users:627,errors:0
+rt:13.25,through:34.93,tt:0.36,num_interact:532,Intrvl:15,num_users:567,errors:0
+rt:12.69,through:36.13,tt:0.36,num_interact:542,Intrvl:15,num_users:589,errors:0
+rt:13.59,through:27.47,tt:0.35,num_interact:431,Intrvl:15,num_users:626,errors:0
+rt:15.01,through:29,tt:0.35,num_interact:435,Intrvl:15,num_users:606,errors:0
+rt:13.15,through:31.87,tt:0.36,num_interact:478,Intrvl:15,num_users:571,errors:0
+rt:12.62,through:26.8,tt:0.36,num_interact:430,Intrvl:15,num_users:568,errors:0
+rt:11.69,through:34.4,tt:0.34,num_interact:516,Intrvl:15,num_users:568,errors:0
+rt:12.63,through:37.73,tt:0.38,num_interact:581,Intrvl:15,num_users:582,errors:0
+rt:18.16,through:5.87,tt:0.33,num_interact:88,Intrvl:15,num_users:584,errors:0
+rt:37.28,through:3.13,tt:0.31,num_interact:47,Intrvl:15,num_users:505,errors:0
+rt:73.75,through:68.6,tt:0.35,num_interact:1029,Intrvl:15,num_users:592,errors:0
+rt:16.09,through:30.13,tt:0.37,num_interact:834,Intrvl:15,num_users:662,errors:0
+rt:16.26,through:27,tt:0.37,num_interact:405,Intrvl:15,num_users:581,errors:0
+rt:13.47,through:43.6,tt:0.39,num_interact:739,Intrvl:15,num_users:711,errors:0
+rt:24.77,through:37.27,tt:0.37,num_interact:559,Intrvl:15,num_users:750,errors:0
+rt:30.75,through:0.73,tt:0.35,num_interact:11,Intrvl:15,num_users:704,errors:0
+rt:42.25,through:0.53,tt:0.18,num_interact:8,Intrvl:15,num_users:638,errors:0
+rt:58.91,through:0.8,tt:0.33,num_interact:12,Intrvl:15,num_users:627,errors:0
+rt:63.25,through:1,tt:0.19,num_interact:15,Intrvl:15,num_users:608,errors:0
+rt:347.03,through:25.33,tt:0.34,num_interact:380,Intrvl:15,num_users:631,errors:0
+rt:239.11,through:36.87,tt:0.35,num_interact:553,Intrvl:15,num_users:666,errors:8
+rt:254.13,through:5.53,tt:0.46,num_interact:83,Intrvl:15,num_users:557,errors:2
+rt:96.39,through:79.47,tt:0.37,num_interact:1256,Intrvl:15,num_users:668,errors:2
+rt:13.52,through:27.6,tt:0.33,num_interact:420,Intrvl:15,num_users:633,errors:0
+rt:11.16,through:32.33,tt:0.36,num_interact:489,Intrvl:15,num_users:609,errors:0
+rt:9.28,through:36.87,tt:0.36,num_interact:553,Intrvl:15,num_users:638,errors:0
+rt:11.84,through:21.73,tt:0.36,num_interact:326,Intrvl:15,num_users:595,errors:0
+rt:12.83,through:24.67,tt:0.36,num_interact:370,Intrvl:15,num_users:592,errors:0
+rt:11.82,through:25.6,tt:0.37,num_interact:384,Intrvl:15,num_users:633,errors:0
+rt:12.9,through:24.53,tt:0.34,num_interact:368,Intrvl:15,num_users:617,errors:0
+rt:12.78,through:25.13,tt:0.38,num_interact:377,Intrvl:15,num_users:624,errors:0
+rt:12.87,through:24.47,tt:0.33,num_interact:367,Intrvl:15,num_users:599,errors:0
+rt:11.34,through:22.87,tt:0.36,num_interact:343,Intrvl:15,num_users:557,errors:0
+rt:11.44,through:24.93,tt:0.37,num_interact:374,Intrvl:15,num_users:605,errors:0
+rt:12.42,through:25.53,tt:0.36,num_interact:386,Intrvl:15,num_users:666,errors:0
+rt:14.16,through:25.8,tt:0.38,num_interact:387,Intrvl:15,num_users:658,errors:0
+rt:13.48,through:21.8,tt:0.36,num_interact:327,Intrvl:15,num_users:601,errors:0
+rt:12.93,through:25.4,tt:0.36,num_interact:381,Intrvl:15,num_users:608,errors:0
+rt:12,through:25.33,tt:0.35,num_interact:380,Intrvl:15,num_users:605,errors:0
+rt:11.54,through:22.6,tt:0.36,num_interact:339,Intrvl:15,num_users:557,errors:0
+rt:11.72,through:25.8,tt:0.39,num_interact:387,Intrvl:15,num_users:665,errors:0
+rt:13.93,through:24.13,tt:0.38,num_interact:362,Intrvl:15,num_users:644,errors:0
+rt:13.5,through:22,tt:0.36,num_interact:330,Intrvl:15,num_users:585,errors:0
+rt:11.86,through:23.07,tt:0.35,num_interact:346,Intrvl:15,num_users:540,errors:0
+rt:10.89,through:25.33,tt:0.39,num_interact:381,Intrvl:15,num_users:638,errors:0
+rt:13.45,through:25.53,tt:0.37,num_interact:392,Intrvl:15,num_users:659,errors:0
+rt:13.35,through:18.73,tt:0.35,num_interact:281,Intrvl:15,num_users:531,errors:0
+rt:12.13,through:24.33,tt:0.35,num_interact:365,Intrvl:15,num_users:640,errors:0
+rt:12.92,through:22.8,tt:0.34,num_interact:342,Intrvl:15,num_users:570,errors:0
+rt:11.89,through:24.67,tt:0.34,num_interact:370,Intrvl:15,num_users:566,errors:0
+rt:11.73,through:25.47,tt:0.37,num_interact:382,Intrvl:15,num_users:627,errors:0
+rt:13,through:24.87,tt:0.34,num_interact:373,Intrvl:15,num_users:602,errors:0
+rt:12.14,through:21.53,tt:0.37,num_interact:323,Intrvl:15,num_users:547,errors:0
+rt:11.85,through:25.73,tt:0.37,num_interact:386,Intrvl:15,num_users:634,errors:0
+rt:13.46,through:24.6,tt:0.37,num_interact:369,Intrvl:15,num_users:645,errors:0
+rt:14.3,through:26.6,tt:0.35,num_interact:399,Intrvl:15,num_users:687,errors:0
+rt:14.93,through:23.8,tt:0.35,num_interact:357,Intrvl:15,num_users:636,errors:0
+rt:14.47,through:24.8,tt:0.32,num_interact:372,Intrvl:15,num_users:652,errors:0
+rt:14.1,through:24.47,tt:0.35,num_interact:367,Intrvl:15,num_users:634,errors:0
+rt:14.05,through:25.33,tt:0.37,num_interact:380,Intrvl:15,num_users:641,errors:0
+rt:13.97,through:25.87,tt:0.34,num_interact:388,Intrvl:15,num_users:644,errors:0
+rt:13.89,through:25.4,tt:0.35,num_interact:381,Intrvl:15,num_users:725,errors:0
+rt:16.8,through:21.73,tt:0.35,num_interact:326,Intrvl:15,num_users:676,errors:0
+rt:15.58,through:22.47,tt:0.36,num_interact:337,Intrvl:15,num_users:623,errors:0
+rt:14.74,through:25.87,tt:0.38,num_interact:388,Intrvl:15,num_users:692,errors:0
+rt:15.82,through:25.73,tt:0.38,num_interact:386,Intrvl:15,num_users:771,errors:0
+rt:18.06,through:22.8,tt:0.4,num_interact:342,Intrvl:15,num_users:720,errors:0
+rt:17.8,through:22.8,tt:0.35,num_interact:342,Intrvl:15,num_users:665,errors:0
+rt:15.68,through:21.53,tt:0.34,num_interact:323,Intrvl:15,num_users:612,errors:0
+rt:13.34,through:24.87,tt:0.35,num_interact:373,Intrvl:15,num_users:612,errors:0
+rt:13.39,through:25.93,tt:0.36,num_interact:389,Intrvl:15,num_users:650,errors:0
+rt:14.17,through:25.67,tt:0.35,num_interact:385,Intrvl:15,num_users:680,errors:0
+rt:15.56,through:25.2,tt:0.35,num_interact:378,Intrvl:15,num_users:750,errors:0
+rt:17.73,through:21.67,tt:0.33,num_interact:325,Intrvl:15,num_users:668,errors:0
+rt:15.23,through:20.87,tt:0.38,num_interact:313,Intrvl:15,num_users:589,errors:0
+rt:13.65,through:24,tt:0.37,num_interact:360,Intrvl:15,num_users:657,errors:0
+rt:13.87,through:20.87,tt:0.35,num_interact:313,Intrvl:15,num_users:566,errors:0
+rt:12.83,through:24.73,tt:0.36,num_interact:371,Intrvl:15,num_users:616,errors:0
+rt:12.81,through:25.27,tt:0.36,num_interact:379,Intrvl:15,num_users:675,errors:0
+rt:14.41,through:24.67,tt:0.37,num_interact:370,Intrvl:15,num_users:643,errors:0
+rt:14.27,through:21.67,tt:0.35,num_interact:325,Intrvl:15,num_users:567,errors:0
+rt:11.61,through:24.53,tt:0.35,num_interact:368,Intrvl:15,num_users:568,errors:0
+rt:12.33,through:25.07,tt:0.36,num_interact:376,Intrvl:15,num_users:707,errors:9
+rt:14.89,through:29.13,tt:0.38,num_interact:437,Intrvl:15,num_users:725,errors:0
+rt:12.82,through:29.87,tt:0.36,num_interact:448,Intrvl:15,num_users:627,errors:0
+rt:10.28,through:31,tt:0.36,num_interact:465,Intrvl:15,num_users:609,errors:0
+rt:9.84,through:37.6,tt:0.37,num_interact:564,Intrvl:15,num_users:634,errors:0
+rt:8.52,through:29.87,tt:0.36,num_interact:448,Intrvl:15,num_users:543,errors:0
+rt:9.3,through:31.27,tt:0.37,num_interact:470,Intrvl:15,num_users:622,errors:0
+rt:9.16,through:34.27,tt:0.33,num_interact:514,Intrvl:15,num_users:617,errors:0
+rt:9.08,through:31.87,tt:0.34,num_interact:478,Intrvl:15,num_users:570,errors:0
+rt:8.19,through:37.67,tt:0.36,num_interact:565,Intrvl:15,num_users:589,errors:0
+rt:9.37,through:34.33,tt:0.34,num_interact:516,Intrvl:15,num_users:624,errors:0
+rt:8.93,through:32.67,tt:0.33,num_interact:490,Intrvl:15,num_users:584,errors:0
+rt:9.03,through:33.07,tt:0.36,num_interact:496,Intrvl:15,num_users:596,errors:0
+rt:8.37,through:30.27,tt:0.35,num_interact:454,Intrvl:15,num_users:526,errors:0
+rt:9.24,through:31.07,tt:0.35,num_interact:466,Intrvl:15,num_users:619,errors:0
+rt:10.2,through:36.07,tt:0.36,num_interact:541,Intrvl:15,num_users:666,errors:0
+rt:12.83,through:24.27,tt:0.37,num_interact:364,Intrvl:15,num_users:606,errors:0
+rt:11.04,through:24.33,tt:0.36,num_interact:365,Intrvl:15,num_users:701,errors:0
+rt:20.83,through:12.13,tt:0.42,num_interact:182,Intrvl:15,num_users:644,errors:0
+rt:17.87,through:27.2,tt:0.35,num_interact:412,Intrvl:15,num_users:592,errors:0
+rt:9.98,through:34.4,tt:0.37,num_interact:516,Intrvl:15,num_users:591,errors:0
+rt:9.43,through:35.33,tt:0.39,num_interact:533,Intrvl:15,num_users:630,errors:0
+rt:10.03,through:36.13,tt:0.38,num_interact:542,Intrvl:15,num_users:658,errors:0
+rt:10.96,through:33.6,tt:0.38,num_interact:504,Intrvl:15,num_users:645,errors:0
+rt:9.93,through:29.6,tt:0.35,num_interact:444,Intrvl:15,num_users:571,errors:0
+rt:8.86,through:34.47,tt:0.34,num_interact:519,Intrvl:15,num_users:588,errors:0
+rt:9.66,through:34.2,tt:0.38,num_interact:517,Intrvl:15,num_users:651,errors:0
+rt:10.43,through:33.93,tt:0.35,num_interact:509,Intrvl:15,num_users:655,errors:0
+rt:10.79,through:33.73,tt:0.34,num_interact:511,Intrvl:15,num_users:641,errors:0
+rt:10.66,through:35.2,tt:0.36,num_interact:537,Intrvl:15,num_users:666,errors:0
+rt:13.06,through:38.4,tt:0.37,num_interact:576,Intrvl:15,num_users:692,errors:0
+rt:12.93,through:25.47,tt:0.35,num_interact:382,Intrvl:15,num_users:609,errors:0
+rt:10.65,through:34.33,tt:0.36,num_interact:515,Intrvl:15,num_users:608,errors:0
+rt:10.82,through:27.67,tt:0.36,num_interact:667,Intrvl:15,num_users:715,errors:1
+rt:285.93,through:1,tt:0.42,num_interact:15,Intrvl:15,num_users:601,errors:0
+rt:217.17,through:30.73,tt:0.35,num_interact:461,Intrvl:15,num_users:626,errors:0
+rt:141.35,through:18.27,tt:0.36,num_interact:274,Intrvl:15,num_users:644,errors:0
+rt:12.95,through:28.07,tt:0.35,num_interact:421,Intrvl:15,num_users:624,errors:0
+rt:4.44,through:41.4,tt:0.35,num_interact:621,Intrvl:15,num_users:400,errors:0
+rt:5.49,through:35.87,tt:0.38,num_interact:548,Intrvl:15,num_users:482,errors:0
+rt:4.09,through:43.87,tt:0.36,num_interact:658,Intrvl:15,num_users:398,errors:0
+rt:4.61,through:38,tt:0.36,num_interact:570,Intrvl:15,num_users:449,errors:0
+rt:5.2,through:37.53,tt:0.36,num_interact:563,Intrvl:15,num_users:444,errors:0
+rt:4.09,through:40.4,tt:0.33,num_interact:606,Intrvl:15,num_users:403,errors:0
+rt:5.39,through:44.2,tt:0.38,num_interact:663,Intrvl:15,num_users:486,errors:0
+rt:5.25,through:39.27,tt:0.35,num_interact:589,Intrvl:15,num_users:461,errors:14
+rt:4.91,through:44.73,tt:0.35,num_interact:678,Intrvl:15,num_users:447,errors:0
+rt:4.96,through:64.93,tt:0.38,num_interact:974,Intrvl:15,num_users:529,errors:0
+rt:6.97,through:45,tt:0.35,num_interact:675,Intrvl:15,num_users:480,errors:0
+rt:4.57,through:38.6,tt:0.33,num_interact:579,Intrvl:15,num_users:440,errors:0
+rt:4.31,through:44.33,tt:0.32,num_interact:665,Intrvl:15,num_users:423,errors:0
+rt:4.11,through:52.13,tt:0.34,num_interact:782,Intrvl:15,num_users:433,errors:0
+rt:4.94,through:42.07,tt:0.36,num_interact:631,Intrvl:15,num_users:463,errors:0
+rt:5.21,through:43.2,tt:0.34,num_interact:648,Intrvl:15,num_users:475,errors:0
+rt:3.61,through:50.2,tt:0.36,num_interact:754,Intrvl:15,num_users:409,errors:0
+rt:5.35,through:37.67,tt:0.37,num_interact:565,Intrvl:15,num_users:479,errors:1
+rt:6.21,through:29.8,tt:0.35,num_interact:447,Intrvl:15,num_users:441,errors:0
+rt:5.97,through:33.47,tt:0.36,num_interact:502,Intrvl:15,num_users:452,errors:0
+rt:6.12,through:34.67,tt:0.36,num_interact:520,Intrvl:15,num_users:458,errors:0
+rt:5.68,through:32.93,tt:0.36,num_interact:494,Intrvl:15,num_users:437,errors:0
+rt:5.21,through:33.47,tt:0.37,num_interact:502,Intrvl:15,num_users:402,errors:0
+rt:4.91,through:34,tt:0.38,num_interact:510,Intrvl:15,num_users:417,errors:0
+rt:6.38,through:32.27,tt:0.35,num_interact:484,Intrvl:15,num_users:468,errors:0
+rt:6.61,through:34.33,tt:0.35,num_interact:515,Intrvl:15,num_users:489,errors:0
+rt:7.2,through:32.93,tt:0.37,num_interact:494,Intrvl:15,num_users:469,errors:0
+rt:5.5,through:31.27,tt:0.36,num_interact:469,Intrvl:15,num_users:413,errors:0
+rt:4.62,through:34.93,tt:0.35,num_interact:527,Intrvl:15,num_users:410,errors:0
+rt:6.73,through:32.53,tt:0.37,num_interact:489,Intrvl:15,num_users:487,errors:0
+rt:5.74,through:32.73,tt:0.32,num_interact:491,Intrvl:15,num_users:419,errors:0
+rt:6.18,through:32.53,tt:0.35,num_interact:488,Intrvl:15,num_users:458,errors:0
+rt:6.35,through:33.27,tt:0.35,num_interact:499,Intrvl:15,num_users:459,errors:0
+rt:7.47,through:34.2,tt:0.39,num_interact:513,Intrvl:15,num_users:532,errors:0
+rt:6.72,through:30,tt:0.37,num_interact:450,Intrvl:15,num_users:424,errors:0
+rt:5.76,through:32.87,tt:0.33,num_interact:493,Intrvl:15,num_users:451,errors:0
+rt:5.37,through:33.53,tt:0.34,num_interact:503,Intrvl:15,num_users:426,errors:0
+rt:8.3,through:31.73,tt:0.39,num_interact:476,Intrvl:15,num_users:554,errors:0
+rt:7.89,through:29.73,tt:0.31,num_interact:446,Intrvl:15,num_users:479,errors:0
+rt:6.93,through:34.6,tt:0.35,num_interact:519,Intrvl:15,num_users:465,errors:0
+rt:7.47,through:31.13,tt:0.39,num_interact:475,Intrvl:15,num_users:529,errors:0
+rt:9.02,through:34.6,tt:0.33,num_interact:519,Intrvl:15,num_users:563,errors:0
+rt:8.12,through:29.33,tt:0.37,num_interact:441,Intrvl:15,num_users:468,errors:0
+rt:7.74,through:35.6,tt:0.39,num_interact:534,Intrvl:15,num_users:550,errors:0
+rt:8.12,through:30.8,tt:0.35,num_interact:462,Intrvl:15,num_users:473,errors:0
+rt:5.84,through:32.27,tt:0.4,num_interact:484,Intrvl:15,num_users:444,errors:0
+Terminating EBs...
+EB TPCW Broswing Mix EB #282commiting suicide!
+EB TPCW Broswing Mix EB #15144commiting suicide!
+EB TPCW Broswing Mix EB #254commiting suicide!
+EB TPCW Broswing Mix EB #15497commiting suicide!
+EB TPCW Broswing Mix EB #148commiting suicide!
+EB TPCW Broswing Mix EB #252commiting suicide!
+EB TPCW Broswing Mix EB #213commiting suicide!
+EB TPCW Broswing Mix EB #242commiting suicide!
+EB TPCW Broswing Mix EB #15588commiting suicide!
+EB TPCW Broswing Mix EB #666commiting suicide!
+EB TPCW Broswing Mix EB #281commiting suicide!
+EB TPCW Broswing Mix EB #86commiting suicide!
+EB TPCW Broswing Mix EB #64commiting suicide!
+EB TPCW Broswing Mix EB #215commiting suicide!
+EB TPCW Broswing Mix EB #507commiting suicide!
+EB TPCW Broswing Mix EB #36commiting suicide!
+EB TPCW Broswing Mix EB #273commiting suicide!
+EB TPCW Broswing Mix EB #220commiting suicide!
+EB TPCW Broswing Mix EB #15805commiting suicide!
+EB TPCW Broswing Mix EB #15591commiting suicide!
+EB TPCW Broswing Mix EB #229commiting suicide!
+EB TPCW Broswing Mix EB #15592commiting suicide!
+EB TPCW Broswing Mix EB #121commiting suicide!
+EB TPCW Broswing Mix EB #168commiting suicide!
+EB TPCW Broswing Mix EB #15818commiting suicide!
+EB TPCW Broswing Mix EB #190commiting suicide!
+EB TPCW Broswing Mix EB #166commiting suicide!
+EB TPCW Broswing Mix EB #306commiting suicide!
+EB TPCW Broswing Mix EB #687commiting suicide!
+EB TPCW Broswing Mix EB #19commiting suicide!
+EB TPCW Broswing Mix EB #501commiting suicide!
+EB TPCW Broswing Mix EB #15810commiting suicide!
+EB TPCW Broswing Mix EB #182commiting suicide!
+EB TPCW Broswing Mix EB #15142commiting suicide!
+EB TPCW Broswing Mix EB #305commiting suicide!
+EB TPCW Broswing Mix EB #15501commiting suicide!
+EB TPCW Broswing Mix EB #504commiting suicide!
+EB TPCW Broswing Mix EB #1652commiting suicide!
+EB TPCW Broswing Mix EB #176commiting suicide!
+EB TPCW Broswing Mix EB #127commiting suicide!
+EB TPCW Broswing Mix EB #492commiting suicide!
+EB TPCW Broswing Mix EB #63commiting suicide!
+EB TPCW Broswing Mix EB #15498commiting suicide!
+EB TPCW Broswing Mix EB #15803commiting suicide!
+EB TPCW Broswing Mix EB #274commiting suicide!
+EB TPCW Broswing Mix EB #299commiting suicide!
+EB TPCW Broswing Mix EB #685commiting suicide!
+EB TPCW Broswing Mix EB #116commiting suicide!
+EB TPCW Broswing Mix EB #156commiting suicide!
+EB TPCW Broswing Mix EB #2999commiting suicide!
+EB TPCW Broswing Mix EB #59commiting suicide!
+EB TPCW Broswing Mix EB #89commiting suicide!
+EB TPCW Broswing Mix EB #136commiting suicide!
+EB TPCW Broswing Mix EB #15665commiting suicide!
+EB TPCW Broswing Mix EB #77commiting suicide!
+EB TPCW Broswing Mix EB #15814commiting suicide!
+EB TPCW Broswing Mix EB #298commiting suicide!
+EB TPCW Broswing Mix EB #60commiting suicide!
+EB TPCW Broswing Mix EB #283commiting suicide!
+EB TPCW Broswing Mix EB #259commiting suicide!
+EB TPCW Broswing Mix EB #15502commiting suicide!
+EB TPCW Broswing Mix EB #264commiting suicide!
+EB TPCW Broswing Mix EB #15808commiting suicide!
+EB TPCW Broswing Mix EB #15801commiting suicide!
+EB TPCW Broswing Mix EB #15586commiting suicide!
+EB TPCW Broswing Mix EB #15661commiting suicide!
+EB TPCW Broswing Mix EB #47commiting suicide!
+EB TPCW Broswing Mix EB #218commiting suicide!
+EB TPCW Broswing Mix EB #491commiting suicide!
+EB TPCW Broswing Mix EB #93commiting suicide!
+EB TPCW Broswing Mix EB #15802commiting suicide!
+EB TPCW Broswing Mix EB #15590commiting suicide!
+EB TPCW Broswing Mix EB #15817commiting suicide!
+EB TPCW Broswing Mix EB #1475commiting suicide!
+EB TPCW Broswing Mix EB #142commiting suicide!
+EB TPCW Broswing Mix EB #15500commiting suicide!
+EB TPCW Broswing Mix EB #87commiting suicide!
+EB TPCW Broswing Mix EB #269commiting suicide!
+EB TPCW Broswing Mix EB #674commiting suicide!
+EB TPCW Broswing Mix EB #138commiting suicide!
+EB TPCW Broswing Mix EB #201commiting suicide!
+EB TPCW Broswing Mix EB #73commiting suicide!
+EB TPCW Broswing Mix EB #317commiting suicide!
+EB TPCW Broswing Mix EB #119commiting suicide!
+EB TPCW Broswing Mix EB #124commiting suicide!
+EB TPCW Broswing Mix EB #180commiting suicide!
+EB TPCW Broswing Mix EB #294commiting suicide!
+EB TPCW Broswing Mix EB #1479commiting suicide!
+EB TPCW Broswing Mix EB #15584commiting suicide!
+EB TPCW Broswing Mix EB #506commiting suicide!
+EB TPCW Broswing Mix EB #214commiting suicide!
+EB TPCW Broswing Mix EB #241commiting suicide!
+EB TPCW Broswing Mix EB #314commiting suicide!
+EB TPCW Broswing Mix EB #15499commiting suicide!
+EB TPCW Broswing Mix EB #210commiting suicide!
+EB TPCW Broswing Mix EB #312commiting suicide!
+EB TPCW Broswing Mix EB #94commiting suicide!
+EB TPCW Broswing Mix EB #26commiting suicide!
+EB TPCW Broswing Mix EB #195commiting suicide!
+EB TPCW Broswing Mix EB #244commiting suicide!
+EB TPCW Broswing Mix EB #15143commiting suicide!
+EB TPCW Broswing Mix EB #82commiting suicide!
+EB TPCW Broswing Mix EB #15809commiting suicide!
+EB TPCW Broswing Mix EB #243commiting suicide!
+EB TPCW Broswing Mix EB #25commiting suicide!
+EB TPCW Broswing Mix EB #1478commiting suicide!
+EB TPCW Broswing Mix EB #51commiting suicide!
+EB TPCW Broswing Mix EB #15585commiting suicide!
+EB TPCW Broswing Mix EB #41commiting suicide!
+EB TPCW Broswing Mix EB #2994commiting suicide!
+EB TPCW Broswing Mix EB #123commiting suicide!
+EB TPCW Broswing Mix EB #275commiting suicide!
+EB TPCW Broswing Mix EB #15504commiting suicide!
+EB TPCW Broswing Mix EB #686commiting suicide!
+EB TPCW Broswing Mix EB #8commiting suicide!
+EB TPCW Broswing Mix EB #288commiting suicide!
+EB TPCW Broswing Mix EB #135commiting suicide!
+EB TPCW Broswing Mix EB #493commiting suicide!
+EB TPCW Broswing Mix EB #129commiting suicide!
+EB TPCW Broswing Mix EB #1655commiting suicide!
+EB TPCW Broswing Mix EB #15807commiting suicide!
+EB TPCW Broswing Mix EB #1647commiting suicide!
+EB TPCW Broswing Mix EB #15503commiting suicide!
+EB TPCW Broswing Mix EB #1477commiting suicide!
+EB TPCW Broswing Mix EB #670commiting suicide!
+EB TPCW Broswing Mix EB #118commiting suicide!
+EB TPCW Broswing Mix EB #45commiting suicide!
+EB TPCW Broswing Mix EB #158commiting suicide!
+EB TPCW Broswing Mix EB #494commiting suicide!
+EB TPCW Broswing Mix EB #301commiting suicide!
+EB TPCW Broswing Mix EB #280commiting suicide!
+EB TPCW Broswing Mix EB #311commiting suicide!
+EB TPCW Broswing Mix EB #503commiting suicide!
+EB TPCW Broswing Mix EB #505commiting suicide!
+EB TPCW Broswing Mix EB #15812commiting suicide!
+EB TPCW Broswing Mix EB #101commiting suicide!
+EB TPCW Broswing Mix EB #15663commiting suicide!
+EB TPCW Broswing Mix EB #15816commiting suicide!
+EB TPCW Broswing Mix EB #99commiting suicide!
+EB TPCW Broswing Mix EB #671commiting suicide!
+EB TPCW Broswing Mix EB #33commiting suicide!
+EB TPCW Broswing Mix EB #15806commiting suicide!
+EB TPCW Broswing Mix EB #1480commiting suicide!
+EB TPCW Broswing Mix EB #28commiting suicide!
+EB TPCW Broswing Mix EB #2998commiting suicide!
+EB TPCW Broswing Mix EB #15662commiting suicide!
+EB TPCW Broswing Mix EB #15804commiting suicide!
+EB TPCW Broswing Mix EB #104commiting suicide!
+EB TPCW Broswing Mix EB #35commiting suicide!
+EB TPCW Broswing Mix EB #44commiting suicide!
+EB TPCW Broswing Mix EB #15775commiting suicide!
+EB TPCW Broswing Mix EB #92commiting suicide!
+EB TPCW Broswing Mix EB #677commiting suicide!
+EB TPCW Broswing Mix EB #161commiting suicide!
+EB TPCW Broswing Mix EB #137commiting suicide!
+EB TPCW Broswing Mix EB #234commiting suicide!
+EB TPCW Broswing Mix EB #105commiting suicide!
+EB TPCW Broswing Mix EB #165commiting suicide!
+EB TPCW Broswing Mix EB #199commiting suicide!
+EB TPCW Broswing Mix EB #1653commiting suicide!
+EB TPCW Broswing Mix EB #508commiting suicide!
+EB TPCW Broswing Mix EB #85commiting suicide!
+EB TPCW Broswing Mix EB #49commiting suicide!
+EB TPCW Broswing Mix EB #255commiting suicide!
+EB TPCW Broswing Mix EB #83commiting suicide!
+EB TPCW Broswing Mix EB #228commiting suicide!
+EB TPCW Broswing Mix EB #173commiting suicide!
+EB TPCW Broswing Mix EB #32commiting suicide!
+EB TPCW Broswing Mix EB #15774commiting suicide!
+EB TPCW Broswing Mix EB #15811commiting suicide!
+EB TPCW Broswing Mix EB #236commiting suicide!
+EB TPCW Broswing Mix EB #500commiting suicide!
+EB TPCW Broswing Mix EB #260commiting suicide!
+EB TPCW Broswing Mix EB #152commiting suicide!
+EB TPCW Broswing Mix EB #154commiting suicide!
+EB TPCW Broswing Mix EB #263commiting suicide!
+EB TPCW Broswing Mix EB #15813commiting suicide!
+EB TPCW Broswing Mix EB #177commiting suicide!
+EB TPCW Broswing Mix EB #258commiting suicide!
+EB TPCW Broswing Mix EB #192commiting suicide!
+EB TPCW Broswing Mix EB #15587commiting suicide!
+EB TPCW Broswing Mix EB #15145commiting suicide!
+EB TPCW Broswing Mix EB #316commiting suicide!
+EB TPCW Broswing Mix EB #128commiting suicide!
+EB TPCW Broswing Mix EB #145commiting suicide!
+EB TPCW Broswing Mix EB #15589commiting suicide!
+EB TPCW Broswing Mix EB #200commiting suicide!
+EB TPCW Broswing Mix EB #688commiting suicide!
+EB TPCW Broswing Mix EB #153commiting suicide!
+EB TPCW Broswing Mix EB #144commiting suicide!
+EB TPCW Broswing Mix EB #178commiting suicide!
+EB TPCW Broswing Mix EB #15664commiting suicide!
+EB TPCW Broswing Mix EB #691commiting suicide!
+EB TPCW Broswing Mix EB #185commiting suicide!
+EB TPCW Broswing Mix EB #175commiting suicide!
+EB TPCW Broswing Mix EB #2996commiting suicide!
+EB TPCW Broswing Mix EB #15815commiting suicide!
+EB TPCW Broswing Mix EB #318commiting suicide!
+EB TPCW Broswing Mix EB #681commiting suicide!
+EB TPCW Broswing Mix EB #1648commiting suicide!
+EBs finished.
+Really finishing RBE!.

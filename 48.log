@@ -1,0 +1,110 @@
+Remote Browser Emulator for TPC-W.
+  ECE 902  Fall '99
+  Version 1.5
+System's current path is /root/loadtest
+rt:0.03,through:2.73,tt:0.33,num_interact:164,Intrvl:60,num_users:1,errors:0
+rt:0.04,through:50.53,tt:0.35,num_interact:3032,Intrvl:60,num_users:20,errors:0
+rt:0.07,through:95.15,tt:0.35,num_interact:5709,Intrvl:60,num_users:40,errors:0
+rt:0.2,through:109.6,tt:0.35,num_interact:6576,Intrvl:60,num_users:60,errors:0
+rt:0.39,through:108.88,tt:0.34,num_interact:6538,Intrvl:60,num_users:80,errors:0
+rt:0.53,through:113.58,tt:0.35,num_interact:6815,Intrvl:60,num_users:100,errors:0
+rt:0.89,through:111.37,tt:0.36,num_interact:6682,Intrvl:60,num_users:140,errors:0
+rt:1.05,through:113.93,tt:0.35,num_interact:6836,Intrvl:60,num_users:160,errors:0
+rt:1.39,through:110.32,tt:0.34,num_interact:6619,Intrvl:60,num_users:190,errors:0
+rt:1.68,through:110.62,tt:0.36,num_interact:6637,Intrvl:60,num_users:220,errors:0
+rt:2.14,through:122.57,tt:0.34,num_interact:7357,Intrvl:60,num_users:260,errors:0
+rt:2.65,through:105.48,tt:0.36,num_interact:6384,Intrvl:60,num_users:300,errors:0
+rt:2.87,through:98.03,tt:0.36,num_interact:6121,Intrvl:60,num_users:320,errors:0
+rt:2.06,through:111.98,tt:0.35,num_interact:6773,Intrvl:60,num_users:260,errors:0
+rt:3.56,through:97.87,tt:0.35,num_interact:5932,Intrvl:60,num_users:380,errors:0
+rt:4.38,through:122.3,tt:0.36,num_interact:7338,Intrvl:60,num_users:460,errors:0
+rt:5.9,through:88.22,tt:0.35,num_interact:5818,Intrvl:60,num_users:547,errors:0
+rt:4.87,through:88.7,tt:0.34,num_interact:5473,Intrvl:60,num_users:469,errors:0
+rt:4.8,through:98.73,tt:0.34,num_interact:5924,Intrvl:60,num_users:470,errors:0
+rt:4.57,through:94.22,tt:0.35,num_interact:5826,Intrvl:60,num_users:461,errors:0
+rt:4.85,through:90.25,tt:0.36,num_interact:5415,Intrvl:60,num_users:487,errors:0
+rt:4.86,through:92.62,tt:0.34,num_interact:5575,Intrvl:60,num_users:475,errors:0
+rt:4.68,through:93.48,tt:0.35,num_interact:5764,Intrvl:60,num_users:469,errors:0
+rt:4.6,through:90.33,tt:0.35,num_interact:5441,Intrvl:60,num_users:444,errors:0
+rt:4.13,through:94.6,tt:0.35,num_interact:5676,Intrvl:60,num_users:425,errors:0
+rt:4.12,through:93.73,tt:0.36,num_interact:5624,Intrvl:60,num_users:427,errors:0
+rt:4.91,through:91.42,tt:0.35,num_interact:5485,Intrvl:60,num_users:483,errors:0
+rt:4.46,through:93.65,tt:0.35,num_interact:6003,Intrvl:60,num_users:453,errors:0
+rt:4.43,through:95.17,tt:0.35,num_interact:5710,Intrvl:60,num_users:449,errors:0
+rt:3.63,through:101.48,tt:0.35,num_interact:6101,Intrvl:60,num_users:397,errors:0
+rt:4.81,through:88.42,tt:0.35,num_interact:5305,Intrvl:60,num_users:471,errors:0
+rt:4.28,through:92.32,tt:0.34,num_interact:5539,Intrvl:60,num_users:433,errors:0
+rt:4.02,through:93.17,tt:0.35,num_interact:5699,Intrvl:60,num_users:403,errors:0
+rt:3.54,through:97.87,tt:0.34,num_interact:5984,Intrvl:60,num_users:376,errors:0
+rt:4.12,through:95.93,tt:0.36,num_interact:5756,Intrvl:60,num_users:424,errors:0
+rt:3.84,through:95.05,tt:0.36,num_interact:5703,Intrvl:60,num_users:401,errors:0
+rt:4.17,through:97.97,tt:0.35,num_interact:5963,Intrvl:60,num_users:425,errors:0
+rt:3.87,through:96.22,tt:0.35,num_interact:5909,Intrvl:60,num_users:406,errors:0
+rt:4.54,through:99.17,tt:0.35,num_interact:5950,Intrvl:60,num_users:459,errors:0
+rt:3.82,through:97.57,tt:0.34,num_interact:5916,Intrvl:60,num_users:400,errors:0
+rt:3.87,through:99.2,tt:0.34,num_interact:5952,Intrvl:60,num_users:405,errors:0
+rt:4.17,through:96.63,tt:0.35,num_interact:5833,Intrvl:60,num_users:425,errors:0
+rt:3.78,through:99.88,tt:0.35,num_interact:6134,Intrvl:60,num_users:398,errors:0
+rt:4.96,through:95.65,tt:0.35,num_interact:5761,Intrvl:60,num_users:487,errors:0
+rt:4.11,through:94.3,tt:0.35,num_interact:5658,Intrvl:60,num_users:425,errors:0
+rt:4.36,through:98.65,tt:0.35,num_interact:6089,Intrvl:60,num_users:433,errors:0
+rt:4.54,through:102.53,tt:0.35,num_interact:6232,Intrvl:60,num_users:450,errors:0
+rt:3.75,through:97.48,tt:0.35,num_interact:5849,Intrvl:60,num_users:390,errors:0
+rt:4.67,through:89.85,tt:0.35,num_interact:5661,Intrvl:60,num_users:464,errors:0
+rt:4.74,through:89,tt:0.35,num_interact:5912,Intrvl:60,num_users:464,errors:0
+rt:4.79,through:96.37,tt:0.36,num_interact:5782,Intrvl:60,num_users:470,errors:0
+rt:3.32,through:101.33,tt:0.35,num_interact:6080,Intrvl:60,num_users:362,errors:0
+rt:3.53,through:102.12,tt:0.35,num_interact:6127,Intrvl:60,num_users:380,errors:0
+rt:3.73,through:91.55,tt:0.35,num_interact:5744,Intrvl:60,num_users:381,errors:0
+rt:4.43,through:94.13,tt:0.36,num_interact:5648,Intrvl:60,num_users:440,errors:0
+rt:4.29,through:92.22,tt:0.34,num_interact:5832,Intrvl:60,num_users:438,errors:0
+rt:4,through:95.33,tt:0.35,num_interact:5720,Intrvl:60,num_users:412,errors:0
+java.io.IOException: Server returned HTTP response code: 503 for URL: http://174.129.2.209/crapy/TestDBServlet?count=5000000
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1305)
+	at java.net.URL.openStream(URL.java:1009)
+	at generalRBE.EB.getHTML(EB.java:335)
+	at generalRBE.EB.run(EB.java:252)
+java.io.IOException: Server returned HTTP response code: 503 for URL: http://174.129.2.209/crapy/TestDBServlet?count=5000000
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1305)
+	at java.net.URL.openStream(URL.java:1009)
+	at generalRBE.EB.getHTML(EB.java:335)
+	at generalRBE.EB.run(EB.java:252)
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://174.129.2.209/crapy/TestDBServlet?count=5000000
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1305)
+	at java.net.URL.openStream(URL.java:1009)
+	at generalRBE.EB.getHTML(EB.java:335)
+	at generalRBE.EB.run(EB.java:252)
+java.io.IOException: Server returned HTTP response code: 400 for URL: http://174.129.2.220/crapy/TestDBServlet?count=5000000
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1305)
+	at java.net.URL.openStream(URL.java:1009)
+	at generalRBE.EB.getHTML(EB.java:335)
+	at generalRBE.EB.run(EB.java:252)
+rt:4.02,through:93.03,tt:0.35,num_interact:5582,Intrvl:60,num_users:409,errors:4
+rt:3.88,through:96.42,tt:0.35,num_interact:5785,Intrvl:60,num_users:406,errors:0
+rt:3.45,through:99.05,tt:0.35,num_interact:6132,Intrvl:60,num_users:372,errors:0
+rt:4.74,through:92.23,tt:0.35,num_interact:5534,Intrvl:60,num_users:479,errors:0
+rt:3.54,through:100.22,tt:0.35,num_interact:6138,Intrvl:60,num_users:382,errors:0
+rt:3.51,through:97.9,tt:0.35,num_interact:5887,Intrvl:60,num_users:374,errors:0
+rt:3.78,through:104.97,tt:0.35,num_interact:6699,Intrvl:60,num_users:416,errors:0
+rt:4.71,through:138.83,tt:0.35,num_interact:8804,Intrvl:60,num_users:481,errors:0
+rt:4.16,through:95.6,tt:0.35,num_interact:5736,Intrvl:60,num_users:420,errors:0
+rt:3.92,through:94.8,tt:0.35,num_interact:5718,Intrvl:60,num_users:400,errors:0
+rt:3.67,through:95.3,tt:0.35,num_interact:5718,Intrvl:60,num_users:383,errors:0
+rt:2.93,through:102.7,tt:0.35,num_interact:6162,Intrvl:60,num_users:334,errors:0
+rt:3.92,through:95.52,tt:0.36,num_interact:5733,Intrvl:60,num_users:417,errors:0
+rt:3.5,through:98.65,tt:0.35,num_interact:6046,Intrvl:60,num_users:377,errors:0
+rt:4.68,through:99.65,tt:0.35,num_interact:5979,Intrvl:60,num_users:476,errors:0
+rt:4.81,through:93.25,tt:0.34,num_interact:5595,Intrvl:60,num_users:463,errors:0
+rt:5.39,through:84.73,tt:0.35,num_interact:5084,Intrvl:60,num_users:501,errors:0
+rt:5.24,through:88.02,tt:0.35,num_interact:5527,Intrvl:60,num_users:487,errors:0
+rt:3.3,through:100.52,tt:0.35,num_interact:6068,Intrvl:60,num_users:362,errors:0
+rt:3.2,through:99.53,tt:0.35,num_interact:6231,Intrvl:60,num_users:355,errors:0
+rt:2.97,through:100.63,tt:0.35,num_interact:6050,Intrvl:60,num_users:332,errors:0
+rt:3.08,through:100.48,tt:0.35,num_interact:6029,Intrvl:60,num_users:342,errors:0
+rt:3.55,through:99.25,tt:0.36,num_interact:5955,Intrvl:60,num_users:373,errors:0
+rt:3.83,through:99.07,tt:0.35,num_interact:5999,Intrvl:60,num_users:400,errors:0
+rt:2.87,through:102.53,tt:0.35,num_interact:6152,Intrvl:60,num_users:331,errors:0
+rt:3.17,through:102.6,tt:0.35,num_interact:6387,Intrvl:60,num_users:352,errors:0
+rt:4.43,through:119.27,tt:0.35,num_interact:7156,Intrvl:60,num_users:464,errors:0
+rt:3.84,through:96.08,tt:0.35,num_interact:5765,Intrvl:60,num_users:404,errors:0
+rt:4.09,through:124.57,tt:0.35,num_interact:7532,Intrvl:60,num_users:418,errors:0
